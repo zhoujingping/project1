@@ -60,48 +60,17 @@ int main(){
     location_out.open("sudoku.txt", std::ios::out | std::ios::app); 
     srand(unsigned(time(0)));
 	cin>>n;
-	num[0][0]=(1+2)%9+1;
-	b[0]=(1+2)%9+1;
-	for(i=0;i<9;i++){
-			a[i]=i+1;
-	}     //生成一个数组存放1-9
-	for(i=1;i<9;){
-		index=rand()%9;
-		if(a[index]!=4&&a[index]!=0){
-		num[0][i]=a[index];   //生成随机数下标，并赋值给num，b,使得num，b存入1-9互不相同的随机数
-		b[i]=a[index];
-		a[index]=0;
-		++i;
-		}
-	}
-
-	sudoku(1,0,b);
-	for(i=0;i<9;i++)
-	{
-		for(j=0;j<9;j++){
-		  cout<<num[i][j]<<" ";
-		  location_out<<num[i][j]<<" ";
-		}
-		cout<<endl;
-		location_out<<endl;
-	 
-	}
-	cout<<endl;
-	location_out<<endl;
-	for(i=0;i<9;i++){
-		for(j=0;j<9;j++){
-		num[i][j]=0;
-	}
-	}
 
 
-	for(z=0;z<n-1;z++){
+	for(z=0;z<n;z++){
+		num[0][0]=(1+2)%9+1;
+		b[0]=(1+2)%9+1;
 		for(i=0;i<9;i++){
 				a[i]=i+1;
 		}     //生成一个数组存放1-9
-		for(i=0;i<9;){
+		for(i=1;i<9;){
 			index=rand()%9;
-			if(a[index]!=0){
+			if(a[index]!=0 && a[index]!=4){
 			num[0][i]=a[index];   //生成随机数下标，并赋值给num，b,使得num，b存入1-9互不相同的随机数
 			b[i]=a[index];
 			a[index]=0;
