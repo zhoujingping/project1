@@ -1,9 +1,11 @@
 #include<iostream>
 #include<ctime>
 #include<fstream>
+#include<stdlib.h>
+
 using namespace std;
 int num[9][9];
-int b[9],a[9];
+int b[9],a[9],c[9];
 bool check(int i,int j,int k)
 {
 	int m,n;
@@ -53,43 +55,55 @@ bool sudoku(int i, int j, int *a) {
 		return true;
 	}	
 }
+int getTimes(int argc,char *argv[]){
+	int times;
+	if(argc==3&&strcmp(argv[1],"-c")==0){
+		times = atoi(argv[2]);
+		return times;
+	}else{
+		cout<<"Input format: sudoku [ -c parameter ]\n";
+		return -1;
+	}
+}
 
-int main(){
+int main(int argc,char *argv[]){
 	int i,j,index,n,z;
 	 ofstream location_out;
-    location_out.open("sudoku.txt", std::ios::out | std::ios::app); 
+    location_out.open("sudoku.txt"); 
     srand(unsigned(time(0)));
-	cin>>n;
-
-
+	n = getTimes(argc,argv);
 	for(z=0;z<n;z++){
 		num[0][0]=(1+2)%9+1;
-		b[0]=(1+2)%9+1;
 		for(i=0;i<9;i++){
 				a[i]=i+1;
 		}     //生成一个数组存放1-9
+		for(i=0;i<9;i++){
+				c[i]=i+1;
+		}     
+		for(i=0;i<9;){
+			index=rand()%9;
+			if(c[index]!=0){   //生成随机数下标，并赋值给num，b,使得num，b存入1-9互不相同的随机数
+			b[i]=c[index];
+			c[index]=0;
+			++i;
+			}
+		}     
 		for(i=1;i<9;){
 			index=rand()%9;
 			if(a[index]!=0 && a[index]!=4){
 			num[0][i]=a[index];   //生成随机数下标，并赋值给num，b,使得num，b存入1-9互不相同的随机数
-			b[i]=a[index];
 			a[index]=0;
 			++i;
 			}
 		}
-
 		sudoku(1,0,b);
 		for(i=0;i<9;i++)
 		{
 			for(j=0;j<9;j++){
-			  cout<<num[i][j]<<" ";
 			  location_out<<num[i][j]<<" ";
 			}
-			cout<<endl;
-			location_out<<endl;
-		 
+				location_out<<endl;
 		}
-		cout<<endl;
 		location_out<<endl;
 		for(i=0;i<9;i++){
 			for(j=0;j<9;j++){
@@ -97,5 +111,6 @@ int main(){
 		}
 		}
 	}
+	location_out.close();
 	return 0;
 }
