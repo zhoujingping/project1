@@ -1,0 +1,2222 @@
+Department
+DepartmentName: "佛蛋夏"
+DepartmentCode: "132005"
+StudentLimit: 9
+Characteristics: "元砂" "谷听虫" "谷听虫" "庇弯"
+RoutineActivityTime: "Day/17:46-20:6" "Day/21:10-23:29"
+/
+DepartmentName: "洽咆辗"
+DepartmentCode: "132009"
+StudentLimit: 2
+Characteristics: "顽彝欠" "芽塘拌" "颁淀赠"
+RoutineActivityTime: "Day/10:31-12:17" "Day/21:34-23:8"
+/
+DepartmentName: "卸戚"
+DepartmentCode: "132015"
+StudentLimit: 14
+Characteristics: "韧爹" "舶侗委"
+RoutineActivityTime: "Day/11:16-12:49" "Day/17:24-20:32" "Day/13:58-16:5" "Day/23:59-25:44"
+/
+DepartmentName: "官摄"
+DepartmentCode: "132019"
+StudentLimit: 12
+Characteristics: "颁淀赠" "顽彝欠" "芽塘拌" "骨熬恩"
+RoutineActivityTime: "Day/13:22-15:35" "Week/Monday/20:55-21:14" "Day/12:2-15:3"
+/
+DepartmentName: "庚妓滁"
+DepartmentCode: "132026"
+StudentLimit: 5
+Characteristics: "元砂" "墨傈" "涝饥并" "涝饥并" "腥靠" "舶侗委"
+RoutineActivityTime: "Day/16:55-19:6" "Week/Saturday/13:40-16:35"
+/
+DepartmentName: "恍驶蜂"
+DepartmentCode: "132030"
+StudentLimit: 13
+Characteristics: "寡巴丑" "绕善养" "法畸才"
+RoutineActivityTime: "Day/24:8-26:38" "Day/11:6-12:52" "Week/Tuesday/21:40-22:5" "Week/Friday/16:47-18:53"
+/
+DepartmentName: "秦愚"
+DepartmentCode: "132032"
+StudentLimit: 10
+Characteristics: "元砂" "舶侗委" "脾绊" "颁淀赠"
+RoutineActivityTime: "Day/13:28-16:17" "Day/21:29-22:25"
+/
+DepartmentName: "付技辕"
+DepartmentCode: "132036"
+StudentLimit: 13
+Characteristics: "胞蛤嫌" "胞蛤嫌" "掀漂" "纸昏处"
+RoutineActivityTime: "Week/Wednesday/10:23-11:44" "Day/18:7-19:55" "Week/Tuesday/16:3-18:48"
+/
+DepartmentName: "灸王"
+DepartmentCode: "132042"
+StudentLimit: 7
+Characteristics: "脾绊" "芽塘拌" "法畸才" "涝饥并"
+RoutineActivityTime: "Week/Friday/10:18-12:37" "Week/Thursday/21:19-23:16"
+/
+DepartmentName: "誊慈"
+DepartmentCode: "132046"
+StudentLimit: 4
+Characteristics: "元砂" "骨熬恩" "顽彝欠" "腥靠" "寡巴丑" "掀漂"
+RoutineActivityTime: "Week/Friday/10:7-11:21" "Day/21:51-22:3"
+/
+DepartmentName: "业娃诊"
+DepartmentCode: "132050"
+StudentLimit: 7
+Characteristics: "掀漂" "绕善养" "墨傈"
+RoutineActivityTime: "Day/15:48-16:6" "Week/Wednesday/20:3-23:48"
+/
+DepartmentName: "塘罐淌"
+DepartmentCode: "132054"
+StudentLimit: 13
+Characteristics: "法畸才" "脾绊" "绕善养" "涝饥并"
+RoutineActivityTime: "Day/15:28-18:46" "Week/Thursday/11:16-14:28" "Week/Wednesday/9:9-12:49"
+/
+DepartmentName: "厘挽辖"
+DepartmentCode: "132061"
+StudentLimit: 9
+Characteristics: "谷听虫" "掀漂" "骨熬恩" "寡巴丑"
+RoutineActivityTime: "Day/14:17-15:48" "Week/Sunday/16:55-17:21" "Week/Saturday/16:21-17:51" "Week/Monday/14:30-15:38"
+/
+DepartmentName: "盼仇敲"
+DepartmentCode: "132064"
+StudentLimit: 6
+Characteristics: "绕善养" "谷听虫"
+RoutineActivityTime: "Day/18:32-21:35" "Day/21:18-22:9"
+/
+DepartmentName: "胰铭"
+DepartmentCode: "132068"
+StudentLimit: 14
+Characteristics: "腥靠"
+RoutineActivityTime: "Week/Tuesday/19:57-22:24" "Week/Friday/12:11-15:42"
+/
+DepartmentName: "绩巡"
+DepartmentCode: "132072"
+StudentLimit: 15
+Characteristics: "法畸才" "骨熬恩" "寡巴丑" "庇弯"
+RoutineActivityTime: "Day/11:22-13:20" "Week/Friday/13:15-14:30" "Week/Thursday/11:27-13:41" "Day/12:1-14:7"
+/
+DepartmentName: "肖谈"
+DepartmentCode: "132074"
+StudentLimit: 6
+Characteristics: "寡巴丑" "庇弯" "矫南彻" "矫南彻" "掀漂"
+RoutineActivityTime: "Day/24:24-25:29" "Day/13:36-16:36"
+/
+DepartmentName: "锨将特"
+DepartmentCode: "132077"
+StudentLimit: 5
+Characteristics: "矫南彻" "舶侗委" "顽彝欠" "腥靠"
+RoutineActivityTime: "Week/Monday/11:29-12:11" "Day/11:55-12:13" "Week/Tuesday/10:1-11:50"
+/
+DepartmentName: "杰射"
+DepartmentCode: "132082"
+StudentLimit: 2
+Characteristics: "谷听虫" "舶侗委" "谷听虫" "顽彝欠" "胞蛤嫌" "绕善养"
+RoutineActivityTime: "Week/Saturday/22:20-23:29" "Day/11:27-13:30" "Day/11:1-12:22" "Day/17:16-18:34"
+/
+DepartmentName: "腆臼臭"
+DepartmentCode: "132085"
+StudentLimit: 10
+Characteristics: "绕善养" "绕善养" "腥靠" "顽彝欠" "脾绊"
+RoutineActivityTime: "Week/Friday/18:8-21:53" "Week/Wednesday/19:25-20:25" "Day/16:17-17:29" "Day/21:56-24:54"
+/
+Student
+StudentName: "颇的"
+StudentCode: "1702006"
+GradePoint: 9.407731389001071
+Interest: "纸昏处" "骨熬恩" "顽彝欠"
+DepartmentWishes: "付技辕" "秦愚" "132064/盼仇敲"
+FreeTime: "Day/15:41-16:47" "Day/16:42-18:31"
+/
+StudentName: "暴趟"
+StudentCode: "1702012"
+GradePoint: 8.202467091074952
+Interest: "胞蛤嫌" "涝饥并" "寡巴丑" "顽彝欠" "谷听虫" "腥靠"
+DepartmentWishes: "132074/肖谈" "132046/誊慈"
+FreeTime: "Day/22:46-24:41" "Day/19:30-22:0"
+/
+StudentName: "镣陋"
+StudentCode: "1702015"
+GradePoint: 9.122738408167802
+Interest: "矫南彻"
+DepartmentWishes: "132042/灸王" "132074/肖谈" "132005/佛蛋夏"
+FreeTime: "Day/9:18-12:28" "Day/14:57-16:55" "Day/16:28-17:3"
+/
+StudentName: "渐谗蜜"
+StudentCode: "1702019"
+GradePoint: 5.450551126565479
+Interest: "腥靠" "腥靠" "墨傈" "骨熬恩" "谷听虫"
+DepartmentWishes: "132050/业娃诊" "132074/肖谈" "132036/付技辕"
+FreeTime: "Day/24:30-25:30" "Day/23:40-26:48"
+/
+StudentName: "胳珐"
+StudentCode: "1702024"
+GradePoint: 6.874509667329092
+Interest: "骨熬恩" "涝饥并"
+DepartmentWishes: "厘挽辖" "132009/洽咆辗" "付技辕"
+FreeTime: "Week/Sunday/24:53-27:2" "Week/Thursday/22:8-23:33" "Week/Friday/11:21-12:35" "Week/Saturday/10:28-12:5"
+/
+StudentName: "卉主"
+StudentCode: "1702027"
+GradePoint: 7.839558455410138
+Interest: "顽彝欠" "骨熬恩" "芽塘拌" "胞蛤嫌"
+DepartmentWishes: "庚妓滁"
+FreeTime: "Week/Sunday/21:1-23:14" "Week/Wednesday/11:48-12:0" "Week/Saturday/17:56-19:48" "Week/Friday/16:58-18:13"
+/
+StudentName: "缚衔豢"
+StudentCode: "1702032"
+GradePoint: 5.379209626369045
+Interest: "元砂" "腥靠" "掀漂" "舶侗委" "纸昏处"
+DepartmentWishes: "恍驶蜂" "业娃诊" "132085/腆臼臭" "132042/灸王"
+FreeTime: "Week/Wednesday/13:6-16:8"
+/
+StudentName: "涸馈士"
+StudentCode: "1702037"
+GradePoint: 4.790065825356012
+Interest: "颁淀赠" "寡巴丑"
+DepartmentWishes: "132046/誊慈"
+FreeTime: "Week/Friday/10:4-12:27"
+/
+StudentName: "夫葵其"
+StudentCode: "1702044"
+GradePoint: 8.569749536540263
+Interest: "骨熬恩"
+DepartmentWishes: "付技辕" "132077/锨将特"
+FreeTime: "Day/23:41-24:56"
+/
+StudentName: "镇咬富"
+StudentCode: "1702049"
+GradePoint: 8.267228592786655
+Interest: "庇弯" "法畸才" "谷听虫" "胞蛤嫌" "胞蛤嫌" "舶侗委"
+DepartmentWishes: "洽咆辗" "132032/秦愚"
+FreeTime: "Week/Saturday/16:2-19:43" "Week/Thursday/9:20-12:3"
+/
+StudentName: "恳馁檬"
+StudentCode: "1702054"
+GradePoint: 5.468306654541663
+Interest: "韧爹" "纸昏处" "脾绊" "胞蛤嫌"
+DepartmentWishes: "付技辕" "132005/佛蛋夏" "庚妓滁"
+FreeTime: "Week/Sunday/22:46-23:15" "Week/Tuesday/23:33-24:17" "Week/Wednesday/11:30-13:0"
+/
+StudentName: "恭煌很"
+StudentCode: "1702058"
+GradePoint: 6.754723811104358
+Interest: "骨熬恩" "元砂" "颁淀赠" "墨傈"
+DepartmentWishes: "132074/肖谈"
+FreeTime: "Day/10:37-12:12" "Day/21:43-22:59" "Day/21:54-23:49"
+/
+StudentName: "饲蜒"
+StudentCode: "1702062"
+GradePoint: 6.160024111981702
+Interest: "元砂" "法畸才"
+DepartmentWishes: "业娃诊" "誊慈" "132068/胰铭"
+FreeTime: "Day/22:37-23:58" "Day/11:31-14:4"
+/
+StudentName: "萝涪任"
+StudentCode: "1702068"
+GradePoint: 9.872287171822737
+Interest: "绕善养" "骨熬恩" "寡巴丑" "寡巴丑" "骨熬恩"
+DepartmentWishes: "灸王" "132061/厘挽辖" "132050/业娃诊" "132032/秦愚"
+FreeTime: "Day/15:22-18:35" "Day/9:14-10:20"
+/
+StudentName: "砧丹臃"
+StudentCode: "1702074"
+GradePoint: 6.976660467050794
+Interest: "涝饥并" "舶侗委" "芽塘拌" "谷听虫" "纸昏处"
+DepartmentWishes: "132082/杰射" "官摄" "132009/洽咆辗" "132085/腆臼臭"
+FreeTime: "Week/Sunday/10:2-11:2" "Week/Monday/21:52-24:12"
+/
+StudentName: "镐迫"
+StudentCode: "1702079"
+GradePoint: 4.722800438440732
+Interest: "庇弯" "法畸才" "寡巴丑" "庇弯"
+DepartmentWishes: "盼仇敲" "132074/肖谈" "132032/秦愚"
+FreeTime: "Day/19:42-21:5" "Day/18:25-21:2" "Day/10:0-13:37"
+/
+StudentName: "仆咀"
+StudentCode: "1702081"
+GradePoint: 4.56549500116142
+Interest: "骨熬恩" "掀漂" "掀漂" "脾绊" "纸昏处"
+DepartmentWishes: "腆臼臭" "绩巡"
+FreeTime: "Day/23:14-25:28"
+/
+StudentName: "败家猎"
+StudentCode: "1702087"
+GradePoint: 4.02376533689959
+Interest: "芽塘拌" "芽塘拌" "舶侗委" "涝饥并" "颁淀赠" "纸昏处"
+DepartmentWishes: "官摄" "132015/卸戚" "132026/庚妓滁" "132050/业娃诊"
+FreeTime: "Day/16:45-18:43" "Day/14:20-15:32"
+/
+StudentName: "柿橙衡"
+StudentCode: "1702090"
+GradePoint: 7.266778539429333
+Interest: "舶侗委" "舶侗委" "掀漂" "庇弯" "掀漂" "墨傈"
+DepartmentWishes: "132082/杰射" "132015/卸戚" "132036/付技辕" "132085/腆臼臭"
+FreeTime: "Week/Saturday/20:27-22:13" "Week/Monday/19:14-22:2" "Week/Tuesday/16:37-17:7" "Week/Thursday/10:14-11:23"
+/
+StudentName: "霓硷恕"
+StudentCode: "1702095"
+GradePoint: 7.113416129210259
+Interest: "掀漂" "元砂" "腥靠"
+DepartmentWishes: "塘罐淌" "厘挽辖" "132036/付技辕" "誊慈"
+FreeTime: "Week/Sunday/10:31-11:13"
+/
+StudentName: "鸭弛"
+StudentCode: "1702100"
+GradePoint: 5.742645995769702
+Interest: "谷听虫" "法畸才" "脾绊" "法畸才" "谷听虫"
+DepartmentWishes: "132068/胰铭"
+FreeTime: "Day/16:22-19:52"
+/
+StudentName: "麻妈"
+StudentCode: "1702105"
+GradePoint: 9.495215793720826
+Interest: "庇弯" "墨傈"
+DepartmentWishes: "官摄" "132074/肖谈" "132042/灸王" "132064/盼仇敲"
+FreeTime: "Week/Wednesday/21:37-23:53" "Week/Wednesday/12:35-15:58"
+/
+StudentName: "创吹"
+StudentCode: "1702108"
+GradePoint: 8.433446277582947
+Interest: "脾绊" "颁淀赠" "脾绊" "颁淀赠"
+DepartmentWishes: "卸戚" "132030/恍驶蜂" "132019/官摄" "庚妓滁"
+FreeTime: "Week/Monday/14:31-17:33" "Week/Friday/17:36-20:8" "Week/Saturday/13:54-16:17" "Week/Friday/9:58-12:4"
+/
+StudentName: "键攀"
+StudentCode: "1702112"
+GradePoint: 6.621584593265608
+Interest: "谷听虫" "骨熬恩" "舶侗委" "腥靠"
+DepartmentWishes: "132072/绩巡" "132009/洽咆辗"
+FreeTime: "Day/15:3-17:55" "Day/23:31-24:57" "Day/10:57-11:46" "Day/22:30-23:32"
+/
+StudentName: "扭卸侨"
+StudentCode: "1702116"
+GradePoint: 6.709187779576714
+Interest: "墨傈" "涝饥并" "寡巴丑"
+DepartmentWishes: "誊慈" "付技辕" "卸戚"
+FreeTime: "Week/Thursday/20:10-21:45"
+/
+StudentName: "掏闲"
+StudentCode: "1702118"
+GradePoint: 6.8202413508086845
+Interest: "谷听虫"
+DepartmentWishes: "132064/盼仇敲" "132026/庚妓滁" "誊慈"
+FreeTime: "Week/Thursday/16:1-18:51"
+/
+StudentName: "浦深胡"
+StudentCode: "1702125"
+GradePoint: 9.452589956878793
+Interest: "纸昏处" "腥靠" "庇弯" "涝饥并" "芽塘拌"
+DepartmentWishes: "庚妓滁"
+FreeTime: "Day/18:3-20:1" "Day/20:59-23:35" "Day/24:36-27:19" "Day/17:44-18:26"
+/
+StudentName: "吕苍剔"
+StudentCode: "1702130"
+GradePoint: 4.146199805899174
+Interest: "谷听虫" "矫南彻" "元砂" "韧爹"
+DepartmentWishes: "灸王" "132077/锨将特" "132030/恍驶蜂"
+FreeTime: "Day/16:51-17:9" "Day/16:3-18:22"
+/
+StudentName: "废艾"
+StudentCode: "1702136"
+GradePoint: 8.172640640327526
+Interest: "顽彝欠" "矫南彻"
+DepartmentWishes: "官摄" "132036/付技辕"
+FreeTime: "Week/Tuesday/11:59-14:33" "Week/Sunday/14:37-15:49"
+/
+StudentName: "介虱讫"
+StudentCode: "1702143"
+GradePoint: 6.928428114728765
+Interest: "韧爹" "寡巴丑"
+DepartmentWishes: "盼仇敲" "132082/杰射" "132009/洽咆辗"
+FreeTime: "Day/14:43-16:17" "Day/21:47-23:48"
+/
+StudentName: "粗汝船"
+StudentCode: "1702148"
+GradePoint: 6.3586908774412105
+Interest: "涝饥并" "芽塘拌" "元砂"
+DepartmentWishes: "杰射" "132061/厘挽辖" "132050/业娃诊"
+FreeTime: "Week/Thursday/21:56-24:15" "Week/Friday/22:54-24:40" "Week/Tuesday/11:14-14:56"
+/
+StudentName: "戍募砷"
+StudentCode: "1702154"
+GradePoint: 4.037427329611813
+Interest: "胞蛤嫌" "舶侗委" "胞蛤嫌" "韧爹"
+DepartmentWishes: "132068/胰铭"
+FreeTime: "Day/16:1-19:3"
+/
+StudentName: "冉职"
+StudentCode: "1702159"
+GradePoint: 8.254503747338308
+Interest: "元砂" "寡巴丑" "掀漂"
+DepartmentWishes: "132042/灸王" "厘挽辖" "132019/官摄"
+FreeTime: "Day/15:6-17:54" "Day/14:55-15:25"
+/
+StudentName: "挡游"
+StudentCode: "1702162"
+GradePoint: 4.847648214257659
+Interest: "法畸才" "涝饥并" "舶侗委" "脾绊" "腥靠"
+DepartmentWishes: "132009/洽咆辗"
+FreeTime: "Week/Tuesday/11:3-12:15" "Week/Wednesday/12:28-13:27" "Week/Thursday/15:51-16:11"
+/
+StudentName: "邵殿"
+StudentCode: "1702167"
+GradePoint: 8.203711039081814
+Interest: "纸昏处" "谷听虫" "墨傈" "颁淀赠"
+DepartmentWishes: "132061/厘挽辖" "132082/杰射" "业娃诊"
+FreeTime: "Day/22:12-23:24" "Day/24:30-25:47"
+/
+StudentName: "泊咳"
+StudentCode: "1702171"
+GradePoint: 9.262952662128793
+Interest: "寡巴丑" "舶侗委"
+DepartmentWishes: "官摄" "卸戚" "杰射"
+FreeTime: "Week/Thursday/22:21-24:8" "Week/Saturday/10:21-11:12"
+/
+StudentName: "羌磐"
+StudentCode: "1702175"
+GradePoint: 5.573939853937787
+Interest: "韧爹"
+DepartmentWishes: "绩巡"
+FreeTime: "Day/23:25-25:35"
+/
+StudentName: "陨竹油"
+StudentCode: "1702182"
+GradePoint: 9.936659108516853
+Interest: "胞蛤嫌"
+DepartmentWishes: "132050/业娃诊" "132015/卸戚" "付技辕"
+FreeTime: "Day/10:54-13:26" "Day/13:36-16:23" "Day/24:22-27:55" "Day/13:49-14:26"
+/
+StudentName: "惰患"
+StudentCode: "1702187"
+GradePoint: 5.064453805869418
+Interest: "法畸才"
+DepartmentWishes: "胰铭"
+FreeTime: "Day/11:34-14:10"
+/
+StudentName: "笑蛔"
+StudentCode: "1702193"
+GradePoint: 6.579612751051698
+Interest: "寡巴丑" "脾绊" "元砂"
+DepartmentWishes: "132054/塘罐淌" "132030/恍驶蜂" "132072/绩巡"
+FreeTime: "Day/9:17-11:45" "Day/13:32-16:29" "Day/19:23-22:14"
+/
+StudentName: "另训手"
+StudentCode: "1702198"
+GradePoint: 6.494855601061891
+Interest: "胞蛤嫌"
+DepartmentWishes: "秦愚" "腆臼臭"
+FreeTime: "Day/16:15-18:3" "Day/24:11-26:40" "Day/13:24-15:48"
+/
+StudentName: "裁擦恰"
+StudentCode: "1702202"
+GradePoint: 4.861998828656582
+Interest: "谷听虫" "胞蛤嫌"
+DepartmentWishes: "132046/誊慈" "132061/厘挽辖"
+FreeTime: "Week/Monday/9:58-11:19"
+/
+StudentName: "蔬挛"
+StudentCode: "1702204"
+GradePoint: 6.7418921451420735
+Interest: "谷听虫"
+DepartmentWishes: "塘罐淌" "厘挽辖" "庚妓滁"
+FreeTime: "Week/Friday/23:35-26:44" "Week/Sunday/9:15-11:24" "Week/Friday/17:48-20:47"
+/
+StudentName: "淤尺"
+StudentCode: "1702210"
+GradePoint: 5.442965431907669
+Interest: "骨熬恩" "脾绊" "庇弯" "纸昏处"
+DepartmentWishes: "132074/肖谈" "132030/恍驶蜂" "132042/灸王" "132026/庚妓滁"
+FreeTime: "Week/Monday/11:59-12:36" "Week/Sunday/10:27-11:23" "Week/Monday/12:58-15:1"
+/
+StudentName: "赏燃戳"
+StudentCode: "1702216"
+GradePoint: 7.476864274395524
+Interest: "涝饥并"
+DepartmentWishes: "132054/塘罐淌"
+FreeTime: "Day/13:4-15:51" "Day/18:29-20:36" "Day/17:28-18:38" "Day/18:3-20:51"
+/
+StudentName: "扭泊"
+StudentCode: "1702219"
+GradePoint: 8.325554810177033
+Interest: "矫南彻" "掀漂" "涝饥并" "绕善养" "芽塘拌"
+DepartmentWishes: "杰射" "灸王" "肖谈" "132061/厘挽辖"
+FreeTime: "Day/11:3-13:27" "Day/13:48-16:25" "Day/9:7-11:31"
+/
+StudentName: "拆伏文"
+StudentCode: "1702226"
+GradePoint: 5.621324641640121
+Interest: "顽彝欠" "纸昏处" "掀漂" "骨熬恩"
+DepartmentWishes: "132068/胰铭"
+FreeTime: "Day/9:54-10:9"
+/
+StudentName: "氛歪立"
+StudentCode: "1702229"
+GradePoint: 6.01391030965039
+Interest: "元砂"
+DepartmentWishes: "锨将特" "132072/绩巡" "132068/胰铭" "杰射"
+FreeTime: "Week/Saturday/10:24-13:38" "Week/Monday/14:43-17:6" "Week/Wednesday/19:46-20:34" "Week/Tuesday/24:47-27:7"
+/
+StudentName: "传肿扔"
+StudentCode: "1702232"
+GradePoint: 7.600629725060939
+Interest: "骨熬恩" "纸昏处"
+DepartmentWishes: "132072/绩巡" "132005/佛蛋夏"
+FreeTime: "Day/10:3-11:30" "Day/12:13-15:1" "Day/11:58-14:26"
+/
+StudentName: "瞎娩稚"
+StudentCode: "1702239"
+GradePoint: 9.863300391063365
+Interest: "顽彝欠"
+DepartmentWishes: "132019/官摄" "灸王"
+FreeTime: "Day/11:24-13:33"
+/
+StudentName: "甥卸奇"
+StudentCode: "1702243"
+GradePoint: 7.793083346500374
+Interest: "芽塘拌" "涝饥并" "胞蛤嫌" "寡巴丑" "法畸才" "涝饥并"
+DepartmentWishes: "132046/誊慈" "132042/灸王"
+FreeTime: "Day/16:23-19:30" "Day/9:31-11:47" "Day/15:55-17:58"
+/
+StudentName: "只谰"
+StudentCode: "1702246"
+GradePoint: 9.314435340738479
+Interest: "涝饥并" "掀漂"
+DepartmentWishes: "132030/恍驶蜂" "132042/灸王" "官摄"
+FreeTime: "Day/13:15-15:40" "Day/17:7-19:3"
+/
+StudentName: "恃痔"
+StudentCode: "1702248"
+GradePoint: 4.958588223933484
+Interest: "涝饥并" "芽塘拌" "掀漂" "胞蛤嫌" "脾绊" "法畸才"
+DepartmentWishes: "132068/胰铭" "肖谈"
+FreeTime: "Day/13:13-16:34"
+/
+StudentName: "称茧"
+StudentCode: "1702253"
+GradePoint: 6.441223535735475
+Interest: "韧爹" "涝饥并" "法畸才" "纸昏处" "绕善养" "矫南彻"
+DepartmentWishes: "132061/厘挽辖" "腆臼臭"
+FreeTime: "Day/17:38-19:5"
+/
+StudentName: "伟祷"
+StudentCode: "1702258"
+GradePoint: 6.929107313015165
+Interest: "绕善养" "掀漂" "颁淀赠"
+DepartmentWishes: "132072/绩巡"
+FreeTime: "Week/Wednesday/14:18-17:58"
+/
+StudentName: "辑条"
+StudentCode: "1702262"
+GradePoint: 5.283716600987188
+Interest: "韧爹" "舶侗委"
+DepartmentWishes: "132050/业娃诊" "132009/洽咆辗" "132036/付技辕"
+FreeTime: "Day/18:58-19:45" "Day/21:13-22:15" "Day/21:31-23:41"
+/
+StudentName: "洼审"
+StudentCode: "1702265"
+GradePoint: 4.930524564728592
+Interest: "绕善养" "韧爹" "庇弯"
+DepartmentWishes: "132054/塘罐淌" "132036/付技辕"
+FreeTime: "Week/Friday/20:4-21:17" "Week/Friday/24:29-26:33" "Week/Saturday/14:31-15:15" "Week/Tuesday/21:41-24:25"
+/
+StudentName: "撇崎狡"
+StudentCode: "1702271"
+GradePoint: 5.90717591192057
+Interest: "掀漂"
+DepartmentWishes: "杰射"
+FreeTime: "Week/Sunday/14:57-16:31" "Week/Friday/10:50-11:47" "Week/Saturday/16:10-19:16" "Week/Wednesday/15:44-18:4"
+/
+StudentName: "废咯"
+StudentCode: "1702277"
+GradePoint: 8.88794191303548
+Interest: "腥靠" "芽塘拌"
+DepartmentWishes: "132050/业娃诊" "132061/厘挽辖" "132026/庚妓滁"
+FreeTime: "Week/Monday/10:40-12:33" "Week/Thursday/18:27-20:6" "Week/Thursday/9:18-11:26"
+/
+StudentName: "徐泛弄"
+StudentCode: "1702284"
+GradePoint: 8.967045593742807
+Interest: "矫南彻" "腥靠" "芽塘拌" "寡巴丑"
+DepartmentWishes: "132005/佛蛋夏" "132036/付技辕" "132009/洽咆辗" "业娃诊"
+FreeTime: "Week/Thursday/17:52-20:19"
+/
+StudentName: "忆收烁"
+StudentCode: "1702290"
+GradePoint: 5.29174705352962
+Interest: "庇弯"
+DepartmentWishes: "132077/锨将特"
+FreeTime: "Week/Monday/19:41-20:46" "Week/Saturday/10:32-13:51" "Week/Monday/12:24-13:31" "Week/Tuesday/12:40-15:43"
+/
+StudentName: "川趣晌"
+StudentCode: "1702294"
+GradePoint: 6.194956853186845
+Interest: "矫南彻" "腥靠"
+DepartmentWishes: "132026/庚妓滁" "佛蛋夏" "132072/绩巡" "132019/官摄"
+FreeTime: "Day/16:32-17:38"
+/
+StudentName: "拭福柒"
+StudentCode: "1702300"
+GradePoint: 4.268615055700566
+Interest: "芽塘拌" "元砂" "谷听虫" "谷听虫" "寡巴丑" "纸昏处"
+DepartmentWishes: "132046/誊慈"
+FreeTime: "Week/Sunday/18:23-19:5"
+/
+StudentName: "膘面"
+StudentCode: "1702303"
+GradePoint: 8.340279701501562
+Interest: "涝饥并" "韧爹" "墨傈"
+DepartmentWishes: "灸王" "132064/盼仇敲" "132009/洽咆辗"
+FreeTime: "Week/Tuesday/13:10-14:22" "Week/Thursday/14:33-17:44" "Week/Saturday/10:40-11:32"
+/
+StudentName: "室众"
+StudentCode: "1702306"
+GradePoint: 4.096774082143377
+Interest: "芽塘拌" "掀漂"
+DepartmentWishes: "恍驶蜂" "132085/腆臼臭" "132054/塘罐淌" "官摄"
+FreeTime: "Week/Tuesday/18:18-21:19"
+/
+StudentName: "靖腑"
+StudentCode: "1702312"
+GradePoint: 4.806646419414202
+Interest: "墨傈" "寡巴丑" "骨熬恩" "谷听虫" "颁淀赠"
+DepartmentWishes: "132054/塘罐淌"
+FreeTime: "Day/17:34-19:9" "Day/17:9-20:38" "Day/12:27-15:6"
+/
+StudentName: "嫩蒋"
+StudentCode: "1702315"
+GradePoint: 8.571811573607214
+Interest: "胞蛤嫌" "寡巴丑" "寡巴丑" "舶侗委"
+DepartmentWishes: "132074/肖谈" "132077/锨将特"
+FreeTime: "Week/Tuesday/13:37-16:58"
+/
+StudentName: "支捆讯"
+StudentCode: "1702322"
+GradePoint: 7.555657346547589
+Interest: "骨熬恩" "颁淀赠" "舶侗委" "涝饥并" "法畸才"
+DepartmentWishes: "132050/业娃诊" "132015/卸戚" "132042/灸王" "132068/胰铭"
+FreeTime: "Day/11:16-14:58" "Day/12:12-13:47" "Day/10:41-13:21" "Day/21:10-24:1"
+/
+StudentName: "虎圾贡"
+StudentCode: "1702329"
+GradePoint: 8.80181683988286
+Interest: "颁淀赠" "脾绊" "涝饥并" "矫南彻"
+DepartmentWishes: "秦愚" "132005/佛蛋夏"
+FreeTime: "Week/Saturday/20:13-23:28" "Week/Thursday/15:26-17:26" "Week/Saturday/12:54-14:36"
+/
+StudentName: "坝杀渣"
+StudentCode: "1702334"
+GradePoint: 4.173881625541008
+Interest: "胞蛤嫌" "颁淀赠" "法畸才" "庇弯" "元砂"
+DepartmentWishes: "132005/佛蛋夏" "腆臼臭"
+FreeTime: "Day/19:41-21:37" "Day/23:50-24:18" "Day/11:23-13:9"
+/
+StudentName: "轨挣"
+StudentCode: "1702340"
+GradePoint: 9.362101555068818
+Interest: "墨傈" "腥靠" "涝饥并" "芽塘拌" "韧爹"
+DepartmentWishes: "132019/官摄"
+FreeTime: "Week/Saturday/17:31-19:40"
+/
+StudentName: "殃膝"
+StudentCode: "1702346"
+GradePoint: 4.4786652106493605
+Interest: "骨熬恩" "芽塘拌" "胞蛤嫌" "骨熬恩" "顽彝欠"
+DepartmentWishes: "132064/盼仇敲" "庚妓滁" "132030/恍驶蜂" "132032/秦愚"
+FreeTime: "Day/13:6-14:6" "Day/24:3-25:15" "Day/12:6-14:50"
+/
+StudentName: "急窍瓦"
+StudentCode: "1702350"
+GradePoint: 8.263835789402101
+Interest: "顽彝欠" "庇弯" "顽彝欠" "涝饥并" "胞蛤嫌" "纸昏处"
+DepartmentWishes: "卸戚" "庚妓滁" "132005/佛蛋夏"
+FreeTime: "Day/12:5-15:8"
+/
+StudentName: "敝于"
+StudentCode: "1702354"
+GradePoint: 8.676301256987607
+Interest: "元砂" "法畸才" "绕善养" "骨熬恩"
+DepartmentWishes: "腆臼臭" "132036/付技辕" "卸戚"
+FreeTime: "Day/24:24-25:52" "Day/9:42-12:29"
+/
+StudentName: "芝凭"
+StudentCode: "1702358"
+GradePoint: 9.575315854341213
+Interest: "脾绊"
+DepartmentWishes: "132009/洽咆辗" "卸戚"
+FreeTime: "Day/17:19-20:39"
+/
+StudentName: "熬急撼"
+StudentCode: "1702364"
+GradePoint: 9.957717122941663
+Interest: "顽彝欠"
+DepartmentWishes: "卸戚" "腆臼臭" "132036/付技辕" "锨将特"
+FreeTime: "Day/17:14-20:5" "Day/10:12-12:34"
+/
+StudentName: "惹神"
+StudentCode: "1702368"
+GradePoint: 6.608361424168473
+Interest: "庇弯" "元砂" "颁淀赠" "元砂"
+DepartmentWishes: "132072/绩巡" "132068/胰铭"
+FreeTime: "Day/24:27-27:26" "Day/13:9-16:29" "Day/17:41-20:46"
+/
+StudentName: "鸟绚肌"
+StudentCode: "1702374"
+GradePoint: 7.542553372331877
+Interest: "韧爹"
+DepartmentWishes: "132050/业娃诊" "庚妓滁"
+FreeTime: "Week/Thursday/10:30-11:51"
+/
+StudentName: "萤恤"
+StudentCode: "1702378"
+GradePoint: 9.05023020532904
+Interest: "顽彝欠"
+DepartmentWishes: "132074/肖谈" "132072/绩巡"
+FreeTime: "Week/Monday/18:18-20:32"
+/
+StudentName: "谎娟"
+StudentCode: "1702382"
+GradePoint: 4.896360193822911
+Interest: "颁淀赠" "绕善养" "骨熬恩" "舶侗委" "腥靠" "顽彝欠"
+DepartmentWishes: "肖谈" "132042/灸王" "132068/胰铭"
+FreeTime: "Week/Monday/16:26-19:32" "Week/Tuesday/9:21-10:42" "Week/Monday/15:14-18:58" "Week/Saturday/24:15-26:43"
+/
+StudentName: "墟烦回"
+StudentCode: "1702387"
+GradePoint: 9.568773379665036
+Interest: "涝饥并"
+DepartmentWishes: "132026/庚妓滁" "132030/恍驶蜂" "132050/业娃诊"
+FreeTime: "Week/Wednesday/22:36-25:43" "Week/Tuesday/12:27-13:47" "Week/Tuesday/13:39-15:38" "Week/Tuesday/11:23-13:51"
+/
+StudentName: "皿薛蔷"
+StudentCode: "1702392"
+GradePoint: 7.3286079748076975
+Interest: "骨熬恩" "胞蛤嫌"
+DepartmentWishes: "132030/恍驶蜂" "杰射" "灸王"
+FreeTime: "Week/Saturday/17:33-20:7" "Week/Thursday/18:57-21:33"
+/
+StudentName: "翼需坏"
+StudentCode: "1702399"
+GradePoint: 9.381638576991001
+Interest: "骨熬恩" "涝饥并" "颁淀赠" "纸昏处" "芽塘拌" "骨熬恩"
+DepartmentWishes: "佛蛋夏" "秦愚"
+FreeTime: "Day/12:0-14:57" "Day/10:35-12:58" "Day/12:51-13:8" "Day/14:23-15:49"
+/
+StudentName: "叭度"
+StudentCode: "1702403"
+GradePoint: 7.235597176282143
+Interest: "谷听虫" "腥靠" "墨傈" "墨傈"
+DepartmentWishes: "132015/卸戚" "132032/秦愚" "誊慈" "业娃诊"
+FreeTime: "Week/Sunday/19:47-21:42" "Week/Thursday/13:38-16:42" "Week/Friday/23:25-26:15"
+/
+StudentName: "崔悦升"
+StudentCode: "1702408"
+GradePoint: 6.151660679890199
+Interest: "胞蛤嫌"
+DepartmentWishes: "132032/秦愚" "锨将特" "132061/厘挽辖"
+FreeTime: "Week/Thursday/9:3-12:17"
+/
+StudentName: "齐保篡"
+StudentCode: "1702412"
+GradePoint: 7.3570240587411835
+Interest: "胞蛤嫌" "庇弯" "颁淀赠" "骨熬恩" "芽塘拌"
+DepartmentWishes: "132072/绩巡" "132082/杰射" "132005/佛蛋夏"
+FreeTime: "Day/23:52-26:54" "Day/19:6-20:48" "Day/9:44-12:24"
+/
+StudentName: "虾右"
+StudentCode: "1702414"
+GradePoint: 8.22759270868254
+Interest: "涝饥并" "舶侗委" "元砂"
+DepartmentWishes: "132077/锨将特"
+FreeTime: "Week/Saturday/14:44-16:52" "Week/Tuesday/24:6-25:17" "Week/Tuesday/23:7-25:28" "Week/Friday/9:34-11:37"
+/
+StudentName: "盗宠骇"
+StudentCode: "1702421"
+GradePoint: 9.56991713649457
+Interest: "腥靠" "脾绊" "腥靠" "顽彝欠"
+DepartmentWishes: "132030/恍驶蜂"
+FreeTime: "Day/10:21-13:59"
+/
+StudentName: "肢卧朱"
+StudentCode: "1702424"
+GradePoint: 8.144862077747996
+Interest: "胞蛤嫌" "芽塘拌"
+DepartmentWishes: "132015/卸戚" "132032/秦愚"
+FreeTime: "Day/17:34-19:4" "Day/22:49-25:32" "Day/16:11-17:55" "Day/10:4-11:7"
+/
+StudentName: "蠢杂"
+StudentCode: "1702426"
+GradePoint: 8.362647296273806
+Interest: "脾绊" "腥靠" "脾绊" "舶侗委" "脾绊" "元砂"
+DepartmentWishes: "132032/秦愚" "肖谈" "132072/绩巡"
+FreeTime: "Day/17:54-20:46" "Day/21:20-22:27" "Day/17:28-19:48" "Day/11:33-12:33"
+/
+StudentName: "玩芝搀"
+StudentCode: "1702430"
+GradePoint: 6.214238269488984
+Interest: "脾绊" "法畸才" "绕善养" "谷听虫"
+DepartmentWishes: "132019/官摄" "杰射" "132042/灸王"
+FreeTime: "Day/17:30-20:13" "Day/22:36-25:47"
+/
+StudentName: "州痛酶"
+StudentCode: "1702435"
+GradePoint: 7.2963445478069815
+Interest: "寡巴丑" "矫南彻" "舶侗委" "脾绊" "颁淀赠" "元砂"
+DepartmentWishes: "132061/厘挽辖"
+FreeTime: "Day/11:25-13:23"
+/
+StudentName: "催鸯"
+StudentCode: "1702437"
+GradePoint: 7.200723203339476
+Interest: "颁淀赠" "掀漂" "寡巴丑" "胞蛤嫌" "脾绊" "寡巴丑"
+DepartmentWishes: "132068/胰铭"
+FreeTime: "Day/20:33-23:55" "Day/15:56-16:41" "Day/23:12-26:51" "Day/14:35-15:19"
+/
+StudentName: "强仟"
+StudentCode: "1702441"
+GradePoint: 4.7649895968925975
+Interest: "寡巴丑" "腥靠" "顽彝欠" "谷听虫" "脾绊"
+DepartmentWishes: "132082/杰射" "卸戚" "132085/腆臼臭" "秦愚"
+FreeTime: "Week/Sunday/17:51-19:43" "Week/Friday/12:30-14:15" "Week/Monday/11:17-12:2" "Week/Wednesday/15:17-17:56"
+/
+StudentName: "舵疯"
+StudentCode: "1702443"
+GradePoint: 4.9739223846657366
+Interest: "绕善养"
+DepartmentWishes: "绩巡" "杰射" "132036/付技辕"
+FreeTime: "Day/23:18-25:29"
+/
+StudentName: "肌洪"
+StudentCode: "1702445"
+GradePoint: 8.819055316247056
+Interest: "纸昏处" "芽塘拌" "庇弯" "寡巴丑" "涝饥并"
+DepartmentWishes: "132042/灸王"
+FreeTime: "Week/Sunday/22:21-25:47"
+/
+StudentName: "镜窃"
+StudentCode: "1702447"
+GradePoint: 4.057371952491823
+Interest: "脾绊" "法畸才" "脾绊" "颁淀赠"
+DepartmentWishes: "官摄" "肖谈" "誊慈" "132068/胰铭"
+FreeTime: "Day/18:51-20:13" "Day/10:8-12:23" "Day/13:6-16:12"
+/
+StudentName: "喜养"
+StudentCode: "1702452"
+GradePoint: 9.743700505038879
+Interest: "舶侗委" "元砂" "庇弯" "法畸才" "绕善养"
+DepartmentWishes: "132068/胰铭" "132064/盼仇敲"
+FreeTime: "Day/19:13-22:39" "Day/20:5-23:57" "Day/19:39-21:36" "Day/22:1-23:48"
+/
+StudentName: "银啡"
+StudentCode: "1702458"
+GradePoint: 9.906003225698935
+Interest: "骨熬恩" "墨傈"
+DepartmentWishes: "132005/佛蛋夏" "腆臼臭"
+FreeTime: "Week/Monday/15:25-17:10"
+/
+StudentName: "脚溪"
+StudentCode: "1702462"
+GradePoint: 8.656056715843732
+Interest: "法畸才" "纸昏处" "寡巴丑" "韧爹"
+DepartmentWishes: "132074/肖谈" "132054/塘罐淌" "杰射" "132085/腆臼臭"
+FreeTime: "Day/23:1-25:40" "Day/17:1-20:27" "Day/19:55-20:13" "Day/9:12-12:41"
+/
+StudentName: "疏沦"
+StudentCode: "1702464"
+GradePoint: 9.237451362696527
+Interest: "墨傈"
+DepartmentWishes: "132005/佛蛋夏" "厘挽辖" "洽咆辗" "132019/官摄"
+FreeTime: "Week/Thursday/15:43-17:48" "Week/Sunday/21:20-22:43" "Week/Thursday/10:38-13:58"
+/
+StudentName: "毒弘休"
+StudentCode: "1702470"
+GradePoint: 7.895833091700114
+Interest: "韧爹" "元砂" "谷听虫" "脾绊" "顽彝欠"
+DepartmentWishes: "132068/胰铭"
+FreeTime: "Week/Saturday/9:38-10:30"
+/
+StudentName: "绵乙锌"
+StudentCode: "1702475"
+GradePoint: 8.098095037668182
+Interest: "胞蛤嫌" "舶侗委" "纸昏处"
+DepartmentWishes: "132064/盼仇敲" "132026/庚妓滁" "132015/卸戚" "132074/肖谈"
+FreeTime: "Day/16:4-17:22"
+/
+StudentName: "恐麻"
+StudentCode: "1702480"
+GradePoint: 7.996589811787608
+Interest: "法畸才" "韧爹" "舶侗委"
+DepartmentWishes: "誊慈"
+FreeTime: "Day/14:57-16:9" "Day/21:20-22:10" "Day/24:6-27:22"
+/
+StudentName: "蹈赦块"
+StudentCode: "1702487"
+GradePoint: 5.623196124164593
+Interest: "芽塘拌" "纸昏处" "颁淀赠" "颁淀赠" "胞蛤嫌" "掀漂"
+DepartmentWishes: "132042/灸王" "132050/业娃诊"
+FreeTime: "Day/10:50-13:20" "Day/17:2-18:45" "Day/11:42-14:47" "Day/11:19-12:35"
+/
+StudentName: "镊巳版"
+StudentCode: "1702491"
+GradePoint: 5.585326182874974
+Interest: "涝饥并" "法畸才"
+DepartmentWishes: "锨将特" "灸王" "盼仇敲" "肖谈"
+FreeTime: "Day/9:53-10:15" "Day/21:12-23:19" "Day/12:34-15:20" "Day/22:45-23:54"
+/
+StudentName: "奶柯壤"
+StudentCode: "1702496"
+GradePoint: 6.314927511310644
+Interest: "法畸才"
+DepartmentWishes: "秦愚" "腆臼臭"
+FreeTime: "Day/17:50-18:56" "Day/9:18-10:49" "Day/21:41-24:43" "Day/18:18-19:17"
+/
+StudentName: "茅泥捎"
+StudentCode: "1702500"
+GradePoint: 4.440833662398067
+Interest: "韧爹" "胞蛤嫌" "舶侗委" "法畸才" "脾绊" "矫南彻"
+DepartmentWishes: "绩巡" "132042/灸王" "盼仇敲"
+FreeTime: "Week/Thursday/16:8-18:41" "Week/Thursday/21:57-22:43" "Week/Thursday/9:26-12:49" "Week/Thursday/14:28-17:23"
+/
+StudentName: "撮泰"
+StudentCode: "1702506"
+GradePoint: 5.4745779488356785
+Interest: "颁淀赠" "舶侗委" "舶侗委" "芽塘拌"
+DepartmentWishes: "佛蛋夏" "132032/秦愚"
+FreeTime: "Day/23:52-26:22"
+/
+StudentName: "雾歌茂"
+StudentCode: "1702510"
+GradePoint: 7.1417816544676604
+Interest: "颁淀赠" "矫南彻" "颁淀赠" "胞蛤嫌" "舶侗委" "颁淀赠"
+DepartmentWishes: "132082/杰射" "132026/庚妓滁"
+FreeTime: "Day/13:40-15:27" "Day/17:3-18:6"
+/
+StudentName: "醒旨"
+StudentCode: "1702514"
+GradePoint: 8.3101575121045
+Interest: "韧爹" "胞蛤嫌" "绕善养" "脾绊"
+DepartmentWishes: "卸戚" "秦愚"
+FreeTime: "Day/17:48-19:20" "Day/20:53-23:34" "Day/9:40-10:52"
+/
+StudentName: "卸旷孰"
+StudentCode: "1702520"
+GradePoint: 4.240933997435765
+Interest: "掀漂" "颁淀赠" "骨熬恩" "绕善养"
+DepartmentWishes: "132054/塘罐淌" "132036/付技辕" "卸戚" "132026/庚妓滁"
+FreeTime: "Week/Monday/21:54-22:21" "Week/Wednesday/10:43-11:2"
+/
+StudentName: "芥寅"
+StudentCode: "1702525"
+GradePoint: 6.934139238766711
+Interest: "谷听虫" "元砂" "寡巴丑" "元砂" "芽塘拌"
+DepartmentWishes: "132085/腆臼臭"
+FreeTime: "Day/18:21-19:21" "Day/16:50-18:58"
+/
+StudentName: "祷卑晨"
+StudentCode: "1702531"
+GradePoint: 6.016923921971507
+Interest: "脾绊" "芽塘拌" "庇弯"
+DepartmentWishes: "塘罐淌"
+FreeTime: "Week/Thursday/10:55-11:12" "Week/Tuesday/20:57-23:33" "Week/Sunday/13:33-15:35" "Week/Sunday/12:31-14:19"
+/
+StudentName: "戍佩"
+StudentCode: "1702537"
+GradePoint: 5.986903229892666
+Interest: "脾绊" "韧爹" "掀漂" "腥靠" "纸昏处" "墨傈"
+DepartmentWishes: "132009/洽咆辗" "132082/杰射"
+FreeTime: "Day/24:13-26:37" "Day/21:48-23:16" "Day/21:8-22:55" "Day/16:45-17:14"
+/
+StudentName: "质挂"
+StudentCode: "1702541"
+GradePoint: 4.225533548856772
+Interest: "矫南彻"
+DepartmentWishes: "132005/佛蛋夏"
+FreeTime: "Day/14:36-16:37"
+/
+StudentName: "钩淋"
+StudentCode: "1702543"
+GradePoint: 4.939518283306454
+Interest: "胞蛤嫌" "墨傈" "墨傈" "腥靠"
+DepartmentWishes: "洽咆辗" "卸戚" "绩巡"
+FreeTime: "Day/22:14-23:49" "Day/15:48-18:24"
+/
+StudentName: "又实闷"
+StudentCode: "1702546"
+GradePoint: 8.078993335284467
+Interest: "元砂" "庇弯" "法畸才"
+DepartmentWishes: "132042/灸王" "盼仇敲" "132036/付技辕" "132085/腆臼臭"
+FreeTime: "Week/Monday/11:23-12:43" "Week/Monday/16:15-18:15" "Week/Wednesday/17:1-19:14"
+/
+StudentName: "搬稼思"
+StudentCode: "1702551"
+GradePoint: 8.435768099445532
+Interest: "骨熬恩" "元砂" "脾绊"
+DepartmentWishes: "132068/胰铭" "132050/业娃诊" "秦愚" "绩巡"
+FreeTime: "Day/16:47-19:38" "Day/24:28-27:24"
+/
+StudentName: "购仍"
+StudentCode: "1702557"
+GradePoint: 7.981009877550075
+Interest: "元砂" "涝饥并" "骨熬恩"
+DepartmentWishes: "132064/盼仇敲" "誊慈" "132032/秦愚" "恍驶蜂"
+FreeTime: "Week/Saturday/22:40-24:54"
+/
+StudentName: "筛检诀"
+StudentCode: "1702563"
+GradePoint: 9.444769523826398
+Interest: "骨熬恩" "绕善养"
+DepartmentWishes: "132032/秦愚"
+FreeTime: "Day/17:17-18:4" "Day/23:14-25:4" "Day/14:15-15:48"
+/
+StudentName: "筏铂"
+StudentCode: "1702567"
+GradePoint: 5.0234910568412525
+Interest: "芽塘拌" "芽塘拌" "矫南彻"
+DepartmentWishes: "卸戚" "官摄" "厘挽辖" "132050/业娃诊"
+FreeTime: "Day/18:50-20:53" "Day/10:21-12:33"
+/
+StudentName: "伺填"
+StudentCode: "1702571"
+GradePoint: 6.063475971868125
+Interest: "法畸才" "元砂" "庇弯" "韧爹"
+DepartmentWishes: "秦愚" "132064/盼仇敲" "卸戚"
+FreeTime: "Day/10:58-13:7" "Day/15:28-18:2"
+/
+StudentName: "敌岩"
+StudentCode: "1702573"
+GradePoint: 7.456756753389446
+Interest: "涝饥并" "涝饥并" "胞蛤嫌"
+DepartmentWishes: "业娃诊" "恍驶蜂" "132032/秦愚"
+FreeTime: "Day/9:35-12:8" "Day/18:39-21:35" "Day/22:36-24:50" "Day/20:11-21:28"
+/
+StudentName: "憨们"
+StudentCode: "1702576"
+GradePoint: 9.084022293698144
+Interest: "腥靠" "庇弯" "寡巴丑" "绕善养" "脾绊"
+DepartmentWishes: "腆臼臭"
+FreeTime: "Day/19:4-20:18" "Day/11:14-12:49" "Day/10:30-13:10"
+/
+StudentName: "蜕坊"
+StudentCode: "1702582"
+GradePoint: 5.325291268407181
+Interest: "元砂"
+DepartmentWishes: "庚妓滁"
+FreeTime: "Week/Tuesday/18:15-21:32"
+/
+StudentName: "处求"
+StudentCode: "1702585"
+GradePoint: 6.2601305638204785
+Interest: "寡巴丑" "腥靠"
+DepartmentWishes: "132068/胰铭" "官摄"
+FreeTime: "Day/12:36-14:32" "Day/21:5-23:57" "Day/21:35-23:53"
+/
+StudentName: "姐仅例"
+StudentCode: "1702588"
+GradePoint: 9.330246911600955
+Interest: "颁淀赠" "纸昏处"
+DepartmentWishes: "胰铭" "132030/恍驶蜂" "132015/卸戚"
+FreeTime: "Week/Saturday/24:23-26:7" "Week/Thursday/20:45-21:40" "Week/Tuesday/18:47-19:38"
+/
+StudentName: "棍未韧"
+StudentCode: "1702592"
+GradePoint: 5.216380887202841
+Interest: "庇弯" "绕善养" "韧爹"
+DepartmentWishes: "132005/佛蛋夏"
+FreeTime: "Week/Tuesday/11:47-14:38" "Week/Wednesday/18:44-21:13" "Week/Saturday/18:54-19:27" "Week/Tuesday/17:31-20:50"
+/
+StudentName: "延胞"
+StudentCode: "1702595"
+GradePoint: 9.677832573067832
+Interest: "顽彝欠" "纸昏处" "法畸才" "腥靠" "舶侗委"
+DepartmentWishes: "灸王"
+FreeTime: "Day/14:23-17:7" "Day/15:21-18:28"
+/
+StudentName: "松狞"
+StudentCode: "1702597"
+GradePoint: 8.733347273490905
+Interest: "墨傈" "绕善养" "掀漂"
+DepartmentWishes: "誊慈" "绩巡" "132030/恍驶蜂" "盼仇敲"
+FreeTime: "Day/9:16-12:20"
+/
+StudentName: "榆迢"
+StudentCode: "1702601"
+GradePoint: 8.446281325348949
+Interest: "矫南彻" "法畸才" "谷听虫"
+DepartmentWishes: "132042/灸王" "132074/肖谈"
+FreeTime: "Day/18:56-20:52" "Day/23:35-24:51" "Day/18:41-21:13"
+/
+StudentName: "骄睬"
+StudentCode: "1702603"
+GradePoint: 8.266043863800176
+Interest: "芽塘拌" "墨傈" "纸昏处" "韧爹" "胞蛤嫌"
+DepartmentWishes: "佛蛋夏" "杰射"
+FreeTime: "Day/12:45-13:12"
+/
+StudentName: "舒呵痹"
+StudentCode: "1702610"
+GradePoint: 9.249607867224269
+Interest: "谷听虫" "谷听虫" "谷听虫" "谷听虫" "法畸才"
+DepartmentWishes: "132085/腆臼臭"
+FreeTime: "Day/11:25-12:53"
+/
+StudentName: "柒彻辣"
+StudentCode: "1702616"
+GradePoint: 6.200973675632797
+Interest: "庇弯" "胞蛤嫌" "芽塘拌"
+DepartmentWishes: "132042/灸王" "132054/塘罐淌" "132064/盼仇敲" "132046/誊慈"
+FreeTime: "Week/Tuesday/10:1-11:57" "Week/Thursday/12:45-14:12"
+/
+StudentName: "肌阉哪"
+StudentCode: "1702621"
+GradePoint: 4.318227662441046
+Interest: "墨傈" "绕善养" "顽彝欠" "韧爹" "腥靠"
+DepartmentWishes: "132009/洽咆辗" "恍驶蜂" "132005/佛蛋夏" "盼仇敲"
+FreeTime: "Day/24:38-26:56"
+/
+StudentName: "格御"
+StudentCode: "1702623"
+GradePoint: 8.771556571324158
+Interest: "元砂"
+DepartmentWishes: "132064/盼仇敲" "132015/卸戚"
+FreeTime: "Day/11:12-13:53"
+/
+StudentName: "诞晶"
+StudentCode: "1702627"
+GradePoint: 4.398233679823336
+Interest: "腥靠" "涝饥并" "腥靠" "掀漂" "墨傈" "元砂"
+DepartmentWishes: "132085/腆臼臭" "132054/塘罐淌" "132032/秦愚"
+FreeTime: "Week/Wednesday/18:23-20:44" "Week/Sunday/24:33-26:1" "Week/Friday/12:32-13:28" "Week/Monday/9:13-11:3"
+/
+StudentName: "当伊猩"
+StudentCode: "1702631"
+GradePoint: 5.016029208702237
+Interest: "脾绊" "掀漂" "腥靠" "谷听虫"
+DepartmentWishes: "锨将特" "132046/誊慈"
+FreeTime: "Day/19:50-20:43" "Day/24:30-25:45" "Day/23:41-25:53" "Day/20:22-22:8"
+/
+StudentName: "酱裂"
+StudentCode: "1702633"
+GradePoint: 8.528892232742601
+Interest: "涝饥并" "绕善养" "庇弯" "脾绊" "纸昏处"
+DepartmentWishes: "132015/卸戚" "腆臼臭" "132077/锨将特" "肖谈"
+FreeTime: "Day/21:30-23:56" "Day/18:46-19:36" "Day/9:55-12:18" "Day/12:38-13:6"
+/
+StudentName: "潜胳婿"
+StudentCode: "1702637"
+GradePoint: 7.839529333344807
+Interest: "腥靠" "绕善养" "矫南彻" "绕善养"
+DepartmentWishes: "卸戚" "132077/锨将特" "132085/腆臼臭"
+FreeTime: "Week/Monday/21:16-23:2" "Week/Monday/19:17-21:49"
+/
+StudentName: "砷说姜"
+StudentCode: "1702644"
+GradePoint: 4.59208437472874
+Interest: "骨熬恩"
+DepartmentWishes: "132072/绩巡" "官摄"
+FreeTime: "Week/Thursday/20:13-23:36" "Week/Sunday/10:52-13:55" "Week/Saturday/24:17-26:40"
+/
+StudentName: "击埂"
+StudentCode: "1702648"
+GradePoint: 4.921431447199374
+Interest: "寡巴丑" "骨熬恩" "庇弯" "芽塘拌" "脾绊" "舶侗委"
+DepartmentWishes: "秦愚" "132042/灸王"
+FreeTime: "Day/21:3-23:49" "Day/11:43-14:20" "Day/22:49-23:9"
+/
+StudentName: "腑许嫁"
+StudentCode: "1702651"
+GradePoint: 7.081144488655365
+Interest: "顽彝欠" "寡巴丑" "顽彝欠" "胞蛤嫌"
+DepartmentWishes: "132015/卸戚" "洽咆辗" "132032/秦愚"
+FreeTime: "Week/Thursday/19:58-21:38" "Week/Friday/18:33-21:42"
+/
+StudentName: "州晾"
+StudentCode: "1702653"
+GradePoint: 8.840655049436865
+Interest: "矫南彻" "掀漂"
+DepartmentWishes: "132054/塘罐淌"
+FreeTime: "Day/9:34-12:16" "Day/17:30-19:24" "Day/19:27-21:3" "Day/16:17-19:39"
+/
+StudentName: "幂苛"
+StudentCode: "1702659"
+GradePoint: 8.473807130051387
+Interest: "纸昏处" "韧爹" "骨熬恩" "脾绊" "墨傈" "颁淀赠"
+DepartmentWishes: "付技辕"
+FreeTime: "Week/Friday/21:43-22:5"
+/
+StudentName: "宛串甚"
+StudentCode: "1702662"
+GradePoint: 6.754819861148085
+Interest: "掀漂" "脾绊" "掀漂" "胞蛤嫌" "谷听虫" "谷听虫"
+DepartmentWishes: "肖谈" "秦愚"
+FreeTime: "Week/Tuesday/21:40-22:1" "Week/Wednesday/16:36-18:55"
+/
+StudentName: "赣诛捏"
+StudentCode: "1702666"
+GradePoint: 4.312513740210611
+Interest: "腥靠"
+DepartmentWishes: "132054/塘罐淌" "胰铭"
+FreeTime: "Day/16:32-17:11" "Day/15:0-17:49"
+/
+StudentName: "篓八墒"
+StudentCode: "1702669"
+GradePoint: 4.039834788196053
+Interest: "芽塘拌" "墨傈"
+DepartmentWishes: "132082/杰射" "132019/官摄"
+FreeTime: "Week/Wednesday/22:2-24:16" "Week/Saturday/14:26-15:25" "Week/Monday/12:30-15:57" "Week/Friday/21:28-23:25"
+/
+StudentName: "悄猴"
+StudentCode: "1702674"
+GradePoint: 8.256981188126552
+Interest: "寡巴丑" "元砂" "绕善养" "掀漂"
+DepartmentWishes: "132085/腆臼臭" "132005/佛蛋夏" "官摄" "132064/盼仇敲"
+FreeTime: "Week/Thursday/11:12-14:25"
+/
+StudentName: "癌愉"
+StudentCode: "1702679"
+GradePoint: 5.119566476376813
+Interest: "绕善养" "元砂"
+DepartmentWishes: "132019/官摄" "132036/付技辕" "132068/胰铭"
+FreeTime: "Day/12:56-14:40" "Day/15:7-16:48"
+/
+StudentName: "介她制"
+StudentCode: "1702682"
+GradePoint: 4.477101917186665
+Interest: "矫南彻" "矫南彻" "脾绊" "骨熬恩" "颁淀赠" "芽塘拌"
+DepartmentWishes: "胰铭" "132050/业娃诊" "132042/灸王" "132030/恍驶蜂"
+FreeTime: "Week/Sunday/9:24-10:49" "Week/Thursday/17:0-18:47"
+/
+StudentName: "磅篷夯"
+StudentCode: "1702688"
+GradePoint: 6.56128541342917
+Interest: "脾绊" "寡巴丑" "舶侗委" "掀漂" "芽塘拌" "法畸才"
+DepartmentWishes: "灸王" "132015/卸戚"
+FreeTime: "Day/15:41-16:47"
+/
+StudentName: "勒豢脆"
+StudentCode: "1702692"
+GradePoint: 7.258518495748421
+Interest: "寡巴丑"
+DepartmentWishes: "业娃诊" "厘挽辖" "132074/肖谈"
+FreeTime: "Day/9:34-11:54" "Day/11:45-12:52" "Day/15:0-17:14" "Day/11:4-12:54"
+/
+StudentName: "泳谤撂"
+StudentCode: "1702698"
+GradePoint: 8.887993889840402
+Interest: "胞蛤嫌" "掀漂" "元砂"
+DepartmentWishes: "132085/腆臼臭" "132009/洽咆辗"
+FreeTime: "Day/14:13-15:18" "Day/13:43-16:3" "Day/22:23-24:55" "Day/23:24-25:39"
+/
+StudentName: "访彩"
+StudentCode: "1702703"
+GradePoint: 9.949942625158172
+Interest: "元砂" "颁淀赠" "谷听虫" "涝饥并"
+DepartmentWishes: "132072/绩巡"
+FreeTime: "Day/9:34-10:53" "Day/13:22-15:11" "Day/22:45-23:0" "Day/12:12-13:3"
+/
+StudentName: "丹誊颊"
+StudentCode: "1702706"
+GradePoint: 9.062774410629618
+Interest: "脾绊" "庇弯" "胞蛤嫌"
+DepartmentWishes: "卸戚" "132019/官摄" "锨将特"
+FreeTime: "Day/24:16-26:15" "Day/24:7-25:46"
+/
+StudentName: "育恨"
+StudentCode: "1702712"
+GradePoint: 8.473480628750721
+Interest: "顽彝欠" "脾绊" "法畸才" "韧爹" "舶侗委" "顽彝欠"
+DepartmentWishes: "佛蛋夏" "灸王" "132046/誊慈" "业娃诊"
+FreeTime: "Day/12:20-14:3" "Day/9:32-10:28"
+/
+StudentName: "芥勃杯"
+StudentCode: "1702716"
+GradePoint: 4.256493637730567
+Interest: "脾绊" "掀漂" "掀漂" "掀漂" "矫南彻"
+DepartmentWishes: "132015/卸戚" "132046/誊慈" "132019/官摄" "132026/庚妓滁"
+FreeTime: "Day/13:24-15:43" "Day/23:43-25:30" "Day/11:10-12:21" "Day/17:8-20:20"
+/
+StudentName: "蒸烫讥"
+StudentCode: "1702719"
+GradePoint: 7.370304480443046
+Interest: "颁淀赠" "脾绊"
+DepartmentWishes: "誊慈" "业娃诊" "132042/灸王"
+FreeTime: "Day/10:48-13:7"
+/
+StudentName: "噶孪"
+StudentCode: "1702724"
+GradePoint: 6.051182655428023
+Interest: "掀漂" "脾绊" "韧爹" "脾绊" "舶侗委"
+DepartmentWishes: "132036/付技辕" "132054/塘罐淌"
+FreeTime: "Week/Sunday/24:33-27:53"
+/
+StudentName: "领带甲"
+StudentCode: "1702729"
+GradePoint: 8.463294027420597
+Interest: "涝饥并" "墨傈" "法畸才" "胞蛤嫌" "庇弯"
+DepartmentWishes: "132005/佛蛋夏" "塘罐淌"
+FreeTime: "Week/Sunday/11:33-12:29" "Week/Thursday/9:20-12:11" "Week/Thursday/15:49-18:19" "Week/Sunday/11:16-14:32"
+/
+StudentName: "藤寿"
+StudentCode: "1702735"
+GradePoint: 6.221071368211739
+Interest: "腥靠" "矫南彻" "掀漂" "脾绊" "矫南彻"
+DepartmentWishes: "佛蛋夏" "132042/灸王" "132074/肖谈" "132077/锨将特"
+FreeTime: "Day/21:57-23:51"
+/
+StudentName: "绅于"
+StudentCode: "1702740"
+GradePoint: 5.307910923803271
+Interest: "骨熬恩" "芽塘拌"
+DepartmentWishes: "132046/誊慈"
+FreeTime: "Week/Saturday/9:48-12:13" "Week/Monday/13:44-16:38"
+/
+StudentName: "袒沃"
+StudentCode: "1702744"
+GradePoint: 7.972801759871804
+Interest: "韧爹" "舶侗委" "胞蛤嫌" "骨熬恩"
+DepartmentWishes: "誊慈" "132036/付技辕" "132015/卸戚"
+FreeTime: "Week/Thursday/15:26-16:47" "Week/Wednesday/24:10-26:10"
+/
+StudentName: "淮舔"
+StudentCode: "1702747"
+GradePoint: 6.5260640886207995
+Interest: "脾绊" "元砂" "韧爹"
+DepartmentWishes: "132019/官摄"
+FreeTime: "Day/23:20-24:8" "Day/12:22-14:55" "Day/10:25-13:27"
+/
+StudentName: "梦蔷片"
+StudentCode: "1702754"
+GradePoint: 4.468740668197764
+Interest: "颁淀赠" "腥靠" "骨熬恩" "庇弯"
+DepartmentWishes: "132030/恍驶蜂"
+FreeTime: "Day/12:24-15:30"
+/
+StudentName: "彬郸茵"
+StudentCode: "1702758"
+GradePoint: 4.603012664379246
+Interest: "绕善养" "骨熬恩" "腥靠" "骨熬恩"
+DepartmentWishes: "132042/灸王" "盼仇敲"
+FreeTime: "Day/24:38-25:7" "Day/10:34-11:58"
+/
+StudentName: "地稚"
+StudentCode: "1702762"
+GradePoint: 7.5240787957040345
+Interest: "元砂" "元砂" "脾绊" "谷听虫" "谷听虫" "谷听虫"
+DepartmentWishes: "132064/盼仇敲" "132050/业娃诊" "卸戚" "132068/胰铭"
+FreeTime: "Week/Saturday/16:49-19:32" "Week/Monday/18:33-20:53" "Week/Thursday/15:47-17:43" "Week/Thursday/20:24-22:1"
+/
+StudentName: "耀碾筒"
+StudentCode: "1702769"
+GradePoint: 9.889969344762271
+Interest: "芽塘拌" "顽彝欠" "掀漂" "腥靠" "骨熬恩"
+DepartmentWishes: "塘罐淌"
+FreeTime: "Day/21:24-24:28"
+/
+StudentName: "抹蜀"
+StudentCode: "1702774"
+GradePoint: 4.545778304950381
+Interest: "掀漂" "顽彝欠" "舶侗委"
+DepartmentWishes: "秦愚"
+FreeTime: "Week/Sunday/16:44-18:59"
+/
+StudentName: "肯押"
+StudentCode: "1702776"
+GradePoint: 5.127314084487017
+Interest: "矫南彻"
+DepartmentWishes: "132046/誊慈" "132074/肖谈" "庚妓滁"
+FreeTime: "Day/18:37-20:11"
+/
+StudentName: "舜惨"
+StudentCode: "1702782"
+GradePoint: 7.416849263030995
+Interest: "法畸才" "涝饥并" "顽彝欠"
+DepartmentWishes: "132036/付技辕" "锨将特"
+FreeTime: "Week/Monday/10:16-11:7" "Week/Saturday/19:9-22:56" "Week/Thursday/21:1-23:8"
+/
+StudentName: "氖人"
+StudentCode: "1702788"
+GradePoint: 8.941572087959603
+Interest: "舶侗委"
+DepartmentWishes: "132042/灸王" "业娃诊"
+FreeTime: "Day/13:15-16:55" "Day/19:13-20:50" "Day/24:21-27:49"
+/
+StudentName: "荒惋架"
+StudentCode: "1702793"
+GradePoint: 6.030967128035799
+Interest: "矫南彻" "胞蛤嫌" "绕善养" "绕善养" "颁淀赠"
+DepartmentWishes: "132030/恍驶蜂" "132015/卸戚" "秦愚" "132026/庚妓滁"
+FreeTime: "Week/Tuesday/18:43-21:12" "Week/Monday/9:45-12:8" "Week/Sunday/11:11-12:17" "Week/Saturday/22:39-24:25"
+/
+StudentName: "爬右"
+StudentCode: "1702799"
+GradePoint: 9.247312365264527
+Interest: "寡巴丑" "腥靠" "颁淀赠" "寡巴丑" "纸昏处"
+DepartmentWishes: "业娃诊" "132019/官摄" "132061/厘挽辖"
+FreeTime: "Week/Sunday/24:40-27:46"
+/
+StudentName: "访秩蔽"
+StudentCode: "1702804"
+GradePoint: 4.414446894601835
+Interest: "胞蛤嫌" "绕善养" "纸昏处"
+DepartmentWishes: "盼仇敲"
+FreeTime: "Week/Sunday/19:30-20:31" "Week/Saturday/18:41-20:30"
+/
+StudentName: "然脏"
+StudentCode: "1702809"
+GradePoint: 6.164949342571514
+Interest: "顽彝欠" "掀漂"
+DepartmentWishes: "132042/灸王" "132072/绩巡" "132019/官摄"
+FreeTime: "Day/24:50-25:41" "Day/10:38-12:38" "Day/19:57-22:48" "Day/19:28-20:23"
+/
+StudentName: "识版酉"
+StudentCode: "1702815"
+GradePoint: 7.32603647210585
+Interest: "脾绊" "寡巴丑" "韧爹"
+DepartmentWishes: "132026/庚妓滁"
+FreeTime: "Day/11:13-13:56" "Day/23:4-24:51" "Day/20:25-23:17"
+/
+StudentName: "吹廉价"
+StudentCode: "1702820"
+GradePoint: 7.474728422675311
+Interest: "矫南彻" "顽彝欠" "涝饥并" "胞蛤嫌" "舶侗委"
+DepartmentWishes: "132042/灸王"
+FreeTime: "Day/13:54-14:2" "Day/10:40-12:9"
+/
+StudentName: "痴肢馏"
+StudentCode: "1702824"
+GradePoint: 5.272968971768997
+Interest: "骨熬恩" "谷听虫" "掀漂"
+DepartmentWishes: "官摄"
+FreeTime: "Day/24:7-27:25"
+/
+StudentName: "孙盾硒"
+StudentCode: "1702829"
+GradePoint: 5.721752965908156
+Interest: "绕善养"
+DepartmentWishes: "132005/佛蛋夏"
+FreeTime: "Day/15:9-16:48" "Day/13:58-14:25" "Day/13:33-15:40"
+/
+StudentName: "金碑"
+StudentCode: "1702833"
+GradePoint: 9.108355643536123
+Interest: "谷听虫" "法畸才" "颁淀赠" "纸昏处" "墨傈" "谷听虫"
+DepartmentWishes: "132054/塘罐淌"
+FreeTime: "Day/23:50-24:43" "Day/16:58-18:50" "Day/14:32-16:36"
+/
+StudentName: "错乘"
+StudentCode: "1702837"
+GradePoint: 7.985566647471861
+Interest: "芽塘拌" "腥靠" "墨傈" "涝饥并" "顽彝欠" "绕善养"
+DepartmentWishes: "绩巡"
+FreeTime: "Day/23:40-26:8"
+/
+StudentName: "客帧庞"
+StudentCode: "1702843"
+GradePoint: 6.1476746470810735
+Interest: "元砂" "舶侗委"
+DepartmentWishes: "恍驶蜂" "132050/业娃诊" "杰射" "132072/绩巡"
+FreeTime: "Day/11:13-12:56" "Day/24:45-27:26" "Day/18:23-21:2" "Day/10:54-12:19"
+/
+StudentName: "颠眼"
+StudentCode: "1702848"
+GradePoint: 9.814065317842953
+Interest: "元砂"
+DepartmentWishes: "132077/锨将特" "杰射" "卸戚"
+FreeTime: "Day/9:7-10:51"
+/
+StudentName: "仙冈"
+StudentCode: "1702854"
+GradePoint: 6.452890891930475
+Interest: "芽塘拌" "法畸才"
+DepartmentWishes: "庚妓滁" "132064/盼仇敲" "132009/洽咆辗" "132015/卸戚"
+FreeTime: "Day/17:57-20:30" "Day/15:30-18:57" "Day/13:8-14:31" "Day/14:20-17:34"
+/
+StudentName: "植胀婴"
+StudentCode: "1702858"
+GradePoint: 5.400926935598255
+Interest: "骨熬恩" "颁淀赠" "寡巴丑" "涝饥并"
+DepartmentWishes: "卸戚" "132030/恍驶蜂" "132064/盼仇敲" "132032/秦愚"
+FreeTime: "Day/9:1-11:32" "Day/9:25-12:20" "Day/9:19-11:0"
+/
+StudentName: "末第吹"
+StudentCode: "1702862"
+GradePoint: 5.420327686100464
+Interest: "胞蛤嫌"
+DepartmentWishes: "132050/业娃诊"
+FreeTime: "Week/Wednesday/13:36-15:28" "Week/Saturday/15:29-17:2" "Week/Wednesday/16:16-19:12"
+/
+StudentName: "响辙诀"
+StudentCode: "1702865"
+GradePoint: 7.691241256030472
+Interest: "矫南彻"
+DepartmentWishes: "132050/业娃诊" "盼仇敲" "132005/佛蛋夏"
+FreeTime: "Week/Wednesday/21:45-22:39" "Week/Monday/16:45-18:5"
+/
+StudentName: "拉弊"
+StudentCode: "1702869"
+GradePoint: 8.982334851584863
+Interest: "顽彝欠"
+DepartmentWishes: "132032/秦愚"
+FreeTime: "Day/13:11-15:49" "Day/14:3-15:17" "Day/10:42-13:22"
+/
+StudentName: "剃钱揪"
+StudentCode: "1702873"
+GradePoint: 4.095685922927824
+Interest: "绕善养" "腥靠" "顽彝欠" "掀漂" "骨熬恩" "纸昏处"
+DepartmentWishes: "132077/锨将特" "132026/庚妓滁" "官摄" "132054/塘罐淌"
+FreeTime: "Day/14:50-17:50" "Day/18:23-20:51" "Day/17:29-19:30" "Day/9:46-11:41"
+/
+StudentName: "店胃芳"
+StudentCode: "1702879"
+GradePoint: 7.188308717270955
+Interest: "谷听虫" "涝饥并" "法畸才" "元砂" "谷听虫" "胞蛤嫌"
+DepartmentWishes: "恍驶蜂" "132015/卸戚" "132085/腆臼臭" "132064/盼仇敲"
+FreeTime: "Day/13:57-14:51" "Day/16:3-18:7"
+/
+StudentName: "档饯诡"
+StudentCode: "1702884"
+GradePoint: 9.28056334997514
+Interest: "绕善养" "胞蛤嫌" "庇弯" "矫南彻" "涝饥并"
+DepartmentWishes: "132032/秦愚"
+FreeTime: "Week/Monday/18:57-21:2"
+/
+StudentName: "指邵薯"
+StudentCode: "1702887"
+GradePoint: 5.086542639612068
+Interest: "芽塘拌" "元砂"
+DepartmentWishes: "秦愚" "132026/庚妓滁" "佛蛋夏"
+FreeTime: "Day/17:17-19:44"
+/
+StudentName: "间蒸皇"
+StudentCode: "1702893"
+GradePoint: 6.461929601436623
+Interest: "胞蛤嫌" "韧爹" "墨傈"
+DepartmentWishes: "132042/灸王" "誊慈" "132085/腆臼臭"
+FreeTime: "Day/16:16-19:18"
+/
+StudentName: "眺磕簇"
+StudentCode: "1702897"
+GradePoint: 4.330540794063785
+Interest: "绕善养" "颁淀赠" "骨熬恩" "芽塘拌" "庇弯"
+DepartmentWishes: "132054/塘罐淌"
+FreeTime: "Week/Wednesday/16:50-19:31" "Week/Thursday/18:3-20:43" "Week/Monday/11:6-14:56" "Week/Thursday/13:30-14:52"
+/
+StudentName: "扫罐伐"
+StudentCode: "1702900"
+GradePoint: 5.639942098036656
+Interest: "芽塘拌" "颁淀赠"
+DepartmentWishes: "132050/业娃诊" "132085/腆臼臭"
+FreeTime: "Day/19:10-20:48" "Day/24:23-27:35" "Day/22:47-24:11" "Day/12:55-15:32"
+/
+StudentName: "荚料"
+StudentCode: "1702904"
+GradePoint: 4.460741178012703
+Interest: "颁淀赠" "胞蛤嫌" "谷听虫" "骨熬恩" "寡巴丑" "谷听虫"
+DepartmentWishes: "132061/厘挽辖"
+FreeTime: "Week/Saturday/18:29-21:8" "Week/Monday/24:49-27:58" "Week/Wednesday/13:21-16:5" "Week/Tuesday/19:36-20:41"
+/
+StudentName: "蕴臼"
+StudentCode: "1702910"
+GradePoint: 7.091227537902601
+Interest: "墨傈" "绕善养" "绕善养" "腥靠" "寡巴丑"
+DepartmentWishes: "胰铭" "132072/绩巡"
+FreeTime: "Day/23:21-26:54"
+/
+StudentName: "虎沉萍"
+StudentCode: "1702916"
+GradePoint: 9.9887494602692
+Interest: "腥靠" "芽塘拌" "纸昏处"
+DepartmentWishes: "132019/官摄" "杰射" "绩巡" "132036/付技辕"
+FreeTime: "Week/Saturday/20:10-22:8" "Week/Friday/11:48-12:56" "Week/Friday/10:7-12:31"
+/
+StudentName: "味敝绚"
+StudentCode: "1702923"
+GradePoint: 4.554722390089812
+Interest: "绕善养"
+DepartmentWishes: "132046/誊慈"
+FreeTime: "Day/24:0-25:30" "Day/10:26-13:10" "Day/9:44-11:7" "Day/14:50-16:22"
+/
+StudentName: "辕莲亭"
+StudentCode: "1702930"
+GradePoint: 9.809948305360802
+Interest: "寡巴丑" "腥靠" "涝饥并"
+DepartmentWishes: "付技辕"
+FreeTime: "Day/22:14-24:1" "Day/13:17-14:27"
+/
+StudentName: "窟疮份"
+StudentCode: "1702935"
+GradePoint: 5.942757222457976
+Interest: "法畸才"
+DepartmentWishes: "庚妓滁" "秦愚" "132005/佛蛋夏" "付技辕"
+FreeTime: "Day/24:15-26:49" "Day/14:35-15:36" "Day/14:6-15:52" "Day/12:11-15:58"
+/
+StudentName: "飘肺财"
+StudentCode: "1702942"
+GradePoint: 7.837913059407775
+Interest: "脾绊" "腥靠" "舶侗委" "韧爹" "寡巴丑" "寡巴丑"
+DepartmentWishes: "132032/秦愚" "132064/盼仇敲" "132015/卸戚"
+FreeTime: "Day/16:14-18:58"
+/
+StudentName: "很急屠"
+StudentCode: "1702948"
+GradePoint: 9.882870599448877
+Interest: "绕善养" "舶侗委" "寡巴丑" "芽塘拌" "墨傈" "矫南彻"
+DepartmentWishes: "132030/恍驶蜂" "132005/佛蛋夏" "132054/塘罐淌"
+FreeTime: "Week/Tuesday/14:24-15:27" "Week/Monday/13:47-14:27" "Week/Tuesday/19:32-22:17"
+/
+StudentName: "箱却"
+StudentCode: "1702953"
+GradePoint: 8.391635297944532
+Interest: "韧爹" "绕善养" "顽彝欠" "掀漂" "墨傈"
+DepartmentWishes: "132077/锨将特" "132036/付技辕"
+FreeTime: "Day/11:17-12:1" "Day/14:51-15:17" "Day/13:23-14:3" "Day/18:26-20:10"
+/
+StudentName: "缺涕"
+StudentCode: "1702957"
+GradePoint: 5.918693780442019
+Interest: "寡巴丑" "庇弯" "芽塘拌" "舶侗委" "墨傈"
+DepartmentWishes: "132032/秦愚" "132072/绩巡" "132005/佛蛋夏" "132030/恍驶蜂"
+FreeTime: "Week/Sunday/24:33-27:17" "Week/Sunday/11:35-12:42" "Week/Friday/18:34-20:1" "Week/Tuesday/12:47-15:18"
+/
+StudentName: "罕挛"
+StudentCode: "1702961"
+GradePoint: 9.391853518450421
+Interest: "绕善养" "矫南彻" "韧爹"
+DepartmentWishes: "132050/业娃诊"
+FreeTime: "Day/24:9-25:18" "Day/24:47-25:17"
+/
+StudentName: "谈超"
+StudentCode: "1702966"
+GradePoint: 7.952121272302831
+Interest: "掀漂" "矫南彻" "掀漂" "顽彝欠" "寡巴丑"
+DepartmentWishes: "132015/卸戚" "132030/恍驶蜂"
+FreeTime: "Day/23:30-24:6" "Day/18:11-19:18"
+/
+StudentName: "亮迪"
+StudentCode: "1702971"
+GradePoint: 9.44929877029955
+Interest: "绕善养" "舶侗委" "舶侗委" "骨熬恩"
+DepartmentWishes: "庚妓滁"
+FreeTime: "Day/20:38-22:41" "Day/10:4-13:44" "Day/10:24-13:18" "Day/10:8-13:24"
+/
+StudentName: "碱须"
+StudentCode: "1702973"
+GradePoint: 8.9424873430011
+Interest: "涝饥并" "庇弯"
+DepartmentWishes: "誊慈" "佛蛋夏" "庚妓滁" "132064/盼仇敲"
+FreeTime: "Day/18:28-19:5"
+/
+StudentName: "增鸟"
+StudentCode: "1702976"
+GradePoint: 7.366233341600418
+Interest: "墨傈" "舶侗委" "矫南彻" "绕善养" "芽塘拌"
+DepartmentWishes: "132077/锨将特" "132032/秦愚" "132046/誊慈" "官摄"
+FreeTime: "Week/Tuesday/9:40-12:8" "Week/Friday/16:13-18:31" "Week/Tuesday/21:35-24:16" "Week/Tuesday/9:49-11:24"
+/
+StudentName: "涛锅窘"
+StudentCode: "1702981"
+GradePoint: 5.8363471544982435
+Interest: "胞蛤嫌" "韧爹" "芽塘拌" "矫南彻" "骨熬恩"
+DepartmentWishes: "绩巡" "132061/厘挽辖"
+FreeTime: "Week/Thursday/18:0-19:16" "Week/Tuesday/24:46-25:29" "Week/Tuesday/13:9-15:2"
+/
+StudentName: "跑韵"
+StudentCode: "1702983"
+GradePoint: 9.061640793146477
+Interest: "纸昏处" "掀漂"
+DepartmentWishes: "塘罐淌" "132030/恍驶蜂" "132015/卸戚"
+FreeTime: "Week/Thursday/9:38-11:13" "Week/Saturday/18:10-19:14"
+/
+StudentName: "眺旺"
+StudentCode: "1702989"
+GradePoint: 6.444982194817164
+Interest: "胞蛤嫌" "谷听虫" "胞蛤嫌"
+DepartmentWishes: "132074/肖谈"
+FreeTime: "Day/16:3-18:16"
+/
+StudentName: "唇鞭"
+StudentCode: "1702991"
+GradePoint: 9.627455326537705
+Interest: "法畸才" "芽塘拌"
+DepartmentWishes: "132072/绩巡"
+FreeTime: "Day/17:46-19:28"
+/
+StudentName: "用译剩"
+StudentCode: "1702996"
+GradePoint: 7.444958803256119
+Interest: "寡巴丑"
+DepartmentWishes: "132085/腆臼臭" "132050/业娃诊"
+FreeTime: "Week/Sunday/21:52-23:47" "Week/Sunday/22:45-24:15"
+/
+StudentName: "姬忿提"
+StudentCode: "1703002"
+GradePoint: 8.940954908582086
+Interest: "庇弯" "绕善养"
+DepartmentWishes: "厘挽辖" "塘罐淌" "132019/官摄"
+FreeTime: "Week/Thursday/9:44-11:49" "Week/Monday/13:45-15:15" "Week/Thursday/20:48-22:21"
+/
+StudentName: "皆复"
+StudentCode: "1703008"
+GradePoint: 7.666185652368572
+Interest: "墨傈" "谷听虫" "腥靠" "庇弯" "谷听虫" "腥靠"
+DepartmentWishes: "132082/杰射" "132042/灸王" "庚妓滁"
+FreeTime: "Week/Tuesday/14:53-15:29" "Week/Friday/19:23-22:55"
+/
+StudentName: "钩噶"
+StudentCode: "1703012"
+GradePoint: 5.992966398495074
+Interest: "颁淀赠" "涝饥并" "颁淀赠" "舶侗委" "庇弯"
+DepartmentWishes: "锨将特" "绩巡" "132050/业娃诊" "佛蛋夏"
+FreeTime: "Day/21:34-23:35" "Day/19:9-22:9" "Day/20:52-22:41" "Day/24:49-27:18"
+/
+StudentName: "财憨"
+StudentCode: "1703017"
+GradePoint: 6.93467883752849
+Interest: "芽塘拌" "纸昏处" "墨傈" "绕善养" "胞蛤嫌"
+DepartmentWishes: "132036/付技辕" "132050/业娃诊" "132046/誊慈" "恍驶蜂"
+FreeTime: "Day/13:7-16:34" "Day/14:20-15:35" "Day/22:46-23:43"
+/
+StudentName: "仪配"
+StudentCode: "1703019"
+GradePoint: 5.891615659084196
+Interest: "纸昏处" "胞蛤嫌" "腥靠"
+DepartmentWishes: "132019/官摄" "佛蛋夏"
+FreeTime: "Week/Monday/15:46-16:54" "Week/Saturday/15:16-18:46" "Week/Monday/19:43-20:42" "Week/Monday/22:31-24:29"
+/
+StudentName: "周版"
+StudentCode: "1703021"
+GradePoint: 4.337375191311703
+Interest: "庇弯"
+DepartmentWishes: "132032/秦愚" "132005/佛蛋夏" "卸戚"
+FreeTime: "Week/Wednesday/13:8-14:55" "Week/Friday/18:56-19:47" "Week/Saturday/10:20-13:27"
+/
+StudentName: "中米"
+StudentCode: "1703027"
+GradePoint: 8.698572213206944
+Interest: "绕善养" "矫南彻" "墨傈" "胞蛤嫌" "骨熬恩" "庇弯"
+DepartmentWishes: "132032/秦愚" "132030/恍驶蜂" "132054/塘罐淌"
+FreeTime: "Day/20:4-21:37" "Day/18:16-19:55"
+/
+StudentName: "杠郝叭"
+StudentCode: "1703031"
+GradePoint: 9.068151752555238
+Interest: "芽塘拌" "庇弯" "庇弯" "芽塘拌"
+DepartmentWishes: "绩巡" "132032/秦愚" "132082/杰射"
+FreeTime: "Day/11:42-12:43" "Day/19:29-20:51"
+/
+StudentName: "顶爬样"
+StudentCode: "1703037"
+GradePoint: 4.892361402540644
+Interest: "谷听虫" "脾绊" "谷听虫" "韧爹"
+DepartmentWishes: "132054/塘罐淌" "132085/腆臼臭" "绩巡" "官摄"
+FreeTime: "Day/23:27-25:46"
+/
+StudentName: "娱签"
+StudentCode: "1703040"
+GradePoint: 4.256854268294775
+Interest: "腥靠" "掀漂"
+DepartmentWishes: "132054/塘罐淌" "付技辕" "132046/誊慈"
+FreeTime: "Day/17:17-19:34" "Day/14:3-17:30" "Day/18:12-20:25"
+/
+StudentName: "妓酬"
+StudentCode: "1703046"
+GradePoint: 8.014593880193207
+Interest: "芽塘拌" "涝饥并" "涝饥并"
+DepartmentWishes: "厘挽辖" "秦愚"
+FreeTime: "Day/12:12-15:14" "Day/18:32-20:18" "Day/16:26-19:48" "Day/14:51-16:10"
+/
+StudentName: "妮篷郑"
+StudentCode: "1703053"
+GradePoint: 7.7919539895855285
+Interest: "元砂" "墨傈"
+DepartmentWishes: "132064/盼仇敲" "恍驶蜂" "132077/锨将特" "佛蛋夏"
+FreeTime: "Day/21:5-24:55"
+/
+StudentName: "弛许畴"
+StudentCode: "1703058"
+GradePoint: 9.71752300435988
+Interest: "胞蛤嫌" "掀漂"
+DepartmentWishes: "卸戚" "132030/恍驶蜂" "132072/绩巡"
+FreeTime: "Day/20:39-23:22" "Day/23:12-25:42" "Day/22:19-23:50"
+/
+StudentName: "疼槛拘"
+StudentCode: "1703063"
+GradePoint: 8.266295694233222
+Interest: "韧爹" "骨熬恩" "法畸才" "舶侗委" "庇弯" "舶侗委"
+DepartmentWishes: "庚妓滁" "132054/塘罐淌" "132009/洽咆辗" "132046/誊慈"
+FreeTime: "Day/9:12-11:49" "Day/24:25-26:7" "Day/13:8-14:12" "Day/20:50-23:36"
+/
+StudentName: "攫鲸淖"
+StudentCode: "1703067"
+GradePoint: 8.979138203494966
+Interest: "掀漂" "寡巴丑" "绕善养"
+DepartmentWishes: "官摄" "盼仇敲" "132082/杰射"
+FreeTime: "Week/Friday/24:22-27:14" "Week/Wednesday/21:9-24:51" "Week/Monday/18:27-19:25" "Week/Monday/10:38-11:48"
+/
+StudentName: "堵们"
+StudentCode: "1703070"
+GradePoint: 5.189608029020501
+Interest: "腥靠" "绕善养" "纸昏处" "涝饥并"
+DepartmentWishes: "132054/塘罐淌" "132032/秦愚" "132005/佛蛋夏"
+FreeTime: "Day/9:54-10:22" "Day/21:41-23:15" "Day/10:32-13:40" "Day/22:46-24:45"
+/
+StudentName: "掌绦"
+StudentCode: "1703075"
+GradePoint: 6.871936630730577
+Interest: "芽塘拌"
+DepartmentWishes: "绩巡" "132077/锨将特" "132042/灸王" "132064/盼仇敲"
+FreeTime: "Day/16:47-17:46" "Day/17:17-18:36" "Day/16:22-17:6" "Day/21:53-22:38"
+/
+StudentName: "减墨筏"
+StudentCode: "1703080"
+GradePoint: 9.079359684919316
+Interest: "脾绊" "腥靠" "韧爹"
+DepartmentWishes: "132050/业娃诊" "佛蛋夏"
+FreeTime: "Week/Sunday/21:45-22:15" "Week/Wednesday/15:56-16:0" "Week/Monday/20:12-23:53" "Week/Saturday/23:24-24:17"
+/
+StudentName: "响颁迭"
+StudentCode: "1703086"
+GradePoint: 5.559492479300693
+Interest: "元砂" "骨熬恩" "元砂" "胞蛤嫌"
+DepartmentWishes: "杰射" "佛蛋夏" "132072/绩巡"
+FreeTime: "Day/11:51-14:43" "Day/19:23-22:32" "Day/21:46-22:6" "Day/24:47-25:50"
+/
+StudentName: "馆江抛"
+StudentCode: "1703093"
+GradePoint: 9.926919038644465
+Interest: "顽彝欠" "胞蛤嫌" "墨傈" "芽塘拌" "纸昏处" "涝饥并"
+DepartmentWishes: "恍驶蜂" "胰铭" "132046/誊慈" "业娃诊"
+FreeTime: "Day/18:2-20:8"
+/
+StudentName: "溜州"
+StudentCode: "1703095"
+GradePoint: 8.119852563380272
+Interest: "涝饥并" "寡巴丑"
+DepartmentWishes: "132030/恍驶蜂" "业娃诊" "132085/腆臼臭" "132015/卸戚"
+FreeTime: "Day/16:10-17:4" "Day/20:16-21:20" "Day/12:29-14:39" "Day/15:40-18:27"
+/
+StudentName: "床哺泪"
+StudentCode: "1703098"
+GradePoint: 8.529836322231223
+Interest: "墨傈" "颁淀赠"
+DepartmentWishes: "132009/洽咆辗" "132082/杰射" "132019/官摄"
+FreeTime: "Day/18:27-19:54" "Day/13:58-14:23" "Day/20:17-21:56" "Day/16:25-19:24"
+/
+StudentName: "抄和"
+StudentCode: "1703100"
+GradePoint: 6.177730273710772
+Interest: "腥靠" "腥靠" "韧爹"
+DepartmentWishes: "132042/灸王" "132074/肖谈" "132085/腆臼臭" "132005/佛蛋夏"
+FreeTime: "Week/Sunday/24:35-25:49" "Week/Sunday/24:9-27:4"
+/
+StudentName: "屿揭"
+StudentCode: "1703106"
+GradePoint: 9.422833850381455
+Interest: "纸昏处" "顽彝欠"
+DepartmentWishes: "庚妓滁" "132068/胰铭" "132077/锨将特" "132015/卸戚"
+FreeTime: "Week/Saturday/21:58-22:59" "Week/Thursday/11:3-13:55" "Week/Monday/20:0-23:31"
+/
+StudentName: "探匪"
+StudentCode: "1703108"
+GradePoint: 9.757673696069405
+Interest: "韧爹" "矫南彻" "胞蛤嫌" "庇弯" "法畸才" "庇弯"
+DepartmentWishes: "132077/锨将特"
+FreeTime: "Week/Friday/15:5-16:12" "Week/Monday/17:1-20:19" "Week/Saturday/16:56-19:58" "Week/Saturday/24:42-25:24"
+/
+StudentName: "雷城岁"
+StudentCode: "1703114"
+GradePoint: 9.406116348442911
+Interest: "韧爹" "腥靠" "法畸才" "涝饥并"
+DepartmentWishes: "132072/绩巡" "132036/付技辕" "132046/誊慈"
+FreeTime: "Day/13:15-15:56" "Day/10:56-11:48" "Day/23:38-26:42"
+/
+StudentName: "侥毕锄"
+StudentCode: "1703117"
+GradePoint: 5.553709202837614
+Interest: "芽塘拌"
+DepartmentWishes: "132026/庚妓滁"
+FreeTime: "Day/9:22-10:5"
+/
+StudentName: "赋帚秒"
+StudentCode: "1703124"
+GradePoint: 4.509876647153549
+Interest: "韧爹" "墨傈" "涝饥并"
+DepartmentWishes: "132009/洽咆辗" "绩巡" "132019/官摄"
+FreeTime: "Week/Saturday/24:55-25:41" "Week/Friday/13:31-16:21"
+/
+StudentName: "萤溪"
+StudentCode: "1703127"
+GradePoint: 5.671324439113674
+Interest: "矫南彻" "庇弯" "涝饥并" "法畸才" "韧爹" "脾绊"
+DepartmentWishes: "132015/卸戚" "132064/盼仇敲"
+FreeTime: "Week/Saturday/20:29-21:46" "Week/Monday/19:40-22:5"
+/
+StudentName: "窄嘉"
+StudentCode: "1703129"
+GradePoint: 8.512747685114421
+Interest: "脾绊"
+DepartmentWishes: "132042/灸王"
+FreeTime: "Day/21:33-24:6" "Day/17:22-20:7" "Day/16:58-18:22" "Day/17:21-20:10"
+/
+StudentName: "选每"
+StudentCode: "1703131"
+GradePoint: 8.406980336233186
+Interest: "腥靠" "芽塘拌"
+DepartmentWishes: "132054/塘罐淌" "132061/厘挽辖"
+FreeTime: "Week/Monday/24:21-27:18"
+/
+StudentName: "湍凡"
+StudentCode: "1703133"
+GradePoint: 7.134305397267216
+Interest: "涝饥并" "矫南彻" "涝饥并" "寡巴丑" "矫南彻"
+DepartmentWishes: "132082/杰射" "132026/庚妓滁" "132032/秦愚"
+FreeTime: "Week/Wednesday/22:35-24:12"
+/
+StudentName: "其壹惭"
+StudentCode: "1703140"
+GradePoint: 7.366397069571659
+Interest: "韧爹" "掀漂" "绕善养"
+DepartmentWishes: "132030/恍驶蜂"
+FreeTime: "Day/16:46-18:19" "Day/21:14-23:51"
+/
+StudentName: "躺绘苦"
+StudentCode: "1703147"
+GradePoint: 6.761468192733357
+Interest: "矫南彻" "法畸才" "腥靠"
+DepartmentWishes: "132032/秦愚" "杰射" "132046/誊慈" "132064/盼仇敲"
+FreeTime: "Week/Wednesday/13:0-14:10"
+/
+StudentName: "颗戊"
+StudentCode: "1703150"
+GradePoint: 8.46980166070102
+Interest: "涝饥并" "腥靠" "骨熬恩"
+DepartmentWishes: "厘挽辖" "132030/恍驶蜂"
+FreeTime: "Day/13:20-15:32" "Day/14:41-16:54"
+/
+StudentName: "栓蚤吕"
+StudentCode: "1703153"
+GradePoint: 6.94961826809861
+Interest: "涝饥并" "涝饥并" "寡巴丑" "骨熬恩"
+DepartmentWishes: "132032/秦愚" "132019/官摄"
+FreeTime: "Day/23:22-24:29" "Day/21:31-22:25"
+/
+StudentName: "在抢"
+StudentCode: "1703159"
+GradePoint: 6.841664969502766
+Interest: "谷听虫" "顽彝欠"
+DepartmentWishes: "盼仇敲" "132061/厘挽辖" "锨将特"
+FreeTime: "Week/Wednesday/19:2-22:50" "Week/Saturday/13:24-15:45"
+/
+StudentName: "狰勉"
+StudentCode: "1703164"
+GradePoint: 6.510902387796961
+Interest: "法畸才" "舶侗委" "庇弯" "腥靠" "掀漂" "颁淀赠"
+DepartmentWishes: "厘挽辖" "腆臼臭" "132032/秦愚" "杰射"
+FreeTime: "Week/Wednesday/11:20-12:55" "Week/Friday/16:39-17:57" "Week/Saturday/15:59-17:28"
+/
+StudentName: "带狞"
+StudentCode: "1703168"
+GradePoint: 6.7399453722283305
+Interest: "涝饥并" "掀漂" "纸昏处" "脾绊" "绕善养"
+DepartmentWishes: "灸王" "132082/杰射"
+FreeTime: "Week/Saturday/10:31-13:12" "Week/Saturday/14:30-15:8" "Week/Tuesday/9:42-11:15"
+/
+StudentName: "陇烁适"
+StudentCode: "1703175"
+GradePoint: 7.296483118329881
+Interest: "舶侗委" "法畸才" "舶侗委" "绕善养"
+DepartmentWishes: "132009/洽咆辗" "132032/秦愚" "塘罐淌"
+FreeTime: "Day/20:23-21:49" "Day/10:31-12:46" "Day/19:7-21:23" "Day/20:9-22:29"
+/
+StudentName: "冤外"
+StudentCode: "1703180"
+GradePoint: 8.123672229848275
+Interest: "腥靠" "涝饥并" "寡巴丑" "胞蛤嫌" "寡巴丑" "腥靠"
+DepartmentWishes: "132074/肖谈" "胰铭" "132015/卸戚" "塘罐淌"
+FreeTime: "Week/Thursday/10:0-11:33" "Week/Tuesday/11:18-13:27" "Week/Tuesday/12:52-15:24" "Week/Tuesday/9:13-10:4"
+/
+StudentName: "橡涸"
+StudentCode: "1703186"
+GradePoint: 8.931247336126482
+Interest: "涝饥并" "庇弯"
+DepartmentWishes: "132061/厘挽辖" "132046/誊慈"
+FreeTime: "Week/Thursday/14:34-16:17" "Week/Thursday/15:5-17:17" "Week/Wednesday/10:12-13:24" "Week/Sunday/11:25-14:6"
+/
+StudentName: "离块辙"
+StudentCode: "1703189"
+GradePoint: 9.124560694830882
+Interest: "矫南彻"
+DepartmentWishes: "132009/洽咆辗"
+FreeTime: "Day/20:22-22:51" "Day/13:3-14:10" "Day/12:30-15:22"
+/
+StudentName: "野起鸣"
+StudentCode: "1703193"
+GradePoint: 6.819649810062094
+Interest: "绕善养"
+DepartmentWishes: "132054/塘罐淌"
+FreeTime: "Day/12:11-14:3" "Day/11:59-14:50"
+/
+StudentName: "奠固"
+StudentCode: "1703195"
+GradePoint: 5.333994772266343
+Interest: "腥靠" "顽彝欠" "寡巴丑"
+DepartmentWishes: "132085/腆臼臭" "132009/洽咆辗" "132032/秦愚"
+FreeTime: "Week/Thursday/9:28-11:2" "Week/Monday/17:33-19:52"
+/
+StudentName: "镭挑"
+StudentCode: "1703199"
+GradePoint: 6.22966119487201
+Interest: "胞蛤嫌" "元砂" "法畸才"
+DepartmentWishes: "132061/厘挽辖"
+FreeTime: "Day/15:40-18:12"
+/
+StudentName: "姓汕掺"
+StudentCode: "1703203"
+GradePoint: 7.9442662688185015
+Interest: "寡巴丑" "舶侗委"
+DepartmentWishes: "官摄"
+FreeTime: "Week/Monday/9:0-11:47" "Week/Sunday/17:1-18:9" "Week/Saturday/12:54-15:19" "Week/Wednesday/10:54-11:36"
+/
+StudentName: "吃缄"
+StudentCode: "1703207"
+GradePoint: 6.71606627556695
+Interest: "腥靠" "胞蛤嫌" "谷听虫"
+DepartmentWishes: "胰铭" "官摄" "塘罐淌" "誊慈"
+FreeTime: "Day/10:57-12:46" "Day/10:6-12:39"
+/
+StudentName: "宋殴"
+StudentCode: "1703209"
+GradePoint: 5.53931580798355
+Interest: "顽彝欠" "谷听虫" "骨熬恩" "骨熬恩"
+DepartmentWishes: "132005/佛蛋夏" "绩巡"
+FreeTime: "Day/9:49-12:15"
+/
+StudentName: "酚突裤"
+StudentCode: "1703215"
+GradePoint: 9.633067309658152
+Interest: "谷听虫"
+DepartmentWishes: "132005/佛蛋夏" "灸王" "绩巡"
+FreeTime: "Day/16:7-18:19" "Day/22:50-24:10" "Day/17:2-18:55"
+/
+StudentName: "去突琶"
+StudentCode: "1703220"
+GradePoint: 8.290572163444422
+Interest: "寡巴丑"
+DepartmentWishes: "132077/锨将特" "132061/厘挽辖" "132085/腆臼臭"
+FreeTime: "Week/Sunday/18:40-21:44" "Week/Monday/13:54-14:4" "Week/Friday/21:6-24:23"
+/
+StudentName: "李淖"
+StudentCode: "1703222"
+GradePoint: 8.89274012848082
+Interest: "颁淀赠" "胞蛤嫌" "脾绊" "胞蛤嫌"
+DepartmentWishes: "132064/盼仇敲"
+FreeTime: "Week/Thursday/11:24-13:49" "Week/Wednesday/20:16-23:9"
+/
+StudentName: "塑肩晰"
+StudentCode: "1703229"
+GradePoint: 9.365425119166709
+Interest: "纸昏处" "脾绊" "骨熬恩" "掀漂"
+DepartmentWishes: "132077/锨将特" "塘罐淌"
+FreeTime: "Week/Monday/13:58-16:6" "Week/Monday/16:40-17:15" "Week/Sunday/19:55-20:29" "Week/Monday/13:44-15:55"
+/
+StudentName: "贬鸵"
+StudentCode: "1703232"
+GradePoint: 8.228986113433637
+Interest: "庇弯" "脾绊" "韧爹"
+DepartmentWishes: "杰射" "付技辕" "132005/佛蛋夏"
+FreeTime: "Week/Tuesday/18:12-20:14" "Week/Tuesday/12:41-13:12"
+/
+StudentName: "在舔"
+StudentCode: "1703236"
+GradePoint: 8.887348183387378
+Interest: "涝饥并" "腥靠"
+DepartmentWishes: "132046/誊慈" "杰射" "132005/佛蛋夏"
+FreeTime: "Day/14:53-15:4" "Day/23:11-26:41" "Day/21:3-23:9"
+/
+StudentName: "诡革图"
+StudentCode: "1703243"
+GradePoint: 6.492346705497713
+Interest: "舶侗委" "芽塘拌"
+DepartmentWishes: "132019/官摄"
+FreeTime: "Day/14:14-15:42" "Day/10:45-12:45" "Day/12:2-14:46"
+/
+StudentName: "尹纱泅"
+StudentCode: "1703248"
+GradePoint: 8.847280434034378
+Interest: "胞蛤嫌" "寡巴丑"
+DepartmentWishes: "132082/杰射" "132072/绩巡" "肖谈"
+FreeTime: "Day/19:4-20:5" "Day/20:30-23:22"
+/
+StudentName: "虑扬密"
+StudentCode: "1703253"
+GradePoint: 7.950945888527183
+Interest: "腥靠" "颁淀赠" "脾绊" "寡巴丑"
+DepartmentWishes: "132042/灸王" "庚妓滁" "132030/恍驶蜂"
+FreeTime: "Day/12:24-15:14"
+/
+StudentName: "患萤"
+StudentCode: "1703258"
+GradePoint: 7.1969966707481845
+Interest: "法畸才" "涝饥并" "芽塘拌" "舶侗委"
+DepartmentWishes: "秦愚" "132005/佛蛋夏" "官摄" "132085/腆臼臭"
+FreeTime: "Day/10:56-13:48" "Day/17:13-18:44" "Day/17:37-19:42" "Day/19:37-21:29"
+/
+StudentName: "贝蛀偷"
+StudentCode: "1703263"
+GradePoint: 4.091246155579103
+Interest: "颁淀赠" "庇弯" "纸昏处" "颁淀赠" "舶侗委"
+DepartmentWishes: "132050/业娃诊" "庚妓滁"
+FreeTime: "Day/13:13-16:55" "Day/14:47-17:21" "Day/19:24-20:12"
+/
+StudentName: "市栖"
+StudentCode: "1703268"
+GradePoint: 8.643391955955849
+Interest: "腥靠" "腥靠" "纸昏处" "韧爹"
+DepartmentWishes: "秦愚"
+FreeTime: "Week/Saturday/22:49-23:43" "Week/Sunday/16:36-17:32"
+/
+StudentName: "造达"
+StudentCode: "1703271"
+GradePoint: 8.322700276245047
+Interest: "涝饥并" "骨熬恩" "谷听虫" "掀漂" "谷听虫"
+DepartmentWishes: "132077/锨将特" "132015/卸戚"
+FreeTime: "Week/Sunday/10:37-11:45" "Week/Monday/12:29-15:58"
+/
+StudentName: "褐游瞩"
+StudentCode: "1703277"
+GradePoint: 4.7377493027052235
+Interest: "颁淀赠" "谷听虫" "腥靠"
+DepartmentWishes: "腆臼臭" "132015/卸戚" "132009/洽咆辗"
+FreeTime: "Day/17:51-18:41" "Day/9:3-12:16" "Day/17:26-20:0"
+/
+StudentName: "袍谦"
+StudentCode: "1703283"
+GradePoint: 9.408245985229849
+Interest: "掀漂" "舶侗委" "掀漂" "纸昏处" "庇弯" "谷听虫"
+DepartmentWishes: "132050/业娃诊" "杰射"
+FreeTime: "Day/24:31-25:59" "Day/14:48-16:6" "Day/13:9-14:25" "Day/20:47-21:11"
+/
+StudentName: "煤你苹"
+StudentCode: "1703290"
+GradePoint: 5.997969399422358
+Interest: "涝饥并" "矫南彻" "法畸才" "腥靠"
+DepartmentWishes: "132030/恍驶蜂" "绩巡"
+FreeTime: "Week/Monday/19:11-22:36" "Week/Tuesday/24:1-25:17" "Week/Friday/17:43-20:27"
+/
+StudentName: "陵坍谎"
+StudentCode: "1703294"
+GradePoint: 6.301350147766523
+Interest: "颁淀赠" "矫南彻"
+DepartmentWishes: "132005/佛蛋夏" "卸戚" "132050/业娃诊" "132054/塘罐淌"
+FreeTime: "Week/Tuesday/11:1-14:10" "Week/Tuesday/23:27-25:47" "Week/Friday/10:12-12:36" "Week/Saturday/9:42-12:27"
+/
+StudentName: "搏亲"
+StudentCode: "1703296"
+GradePoint: 5.168461436079827
+Interest: "掀漂" "芽塘拌" "顽彝欠"
+DepartmentWishes: "132085/腆臼臭" "132068/胰铭"
+FreeTime: "Day/12:28-14:4" "Day/10:32-13:49" "Day/12:58-13:53" "Day/10:11-11:51"
+/
+StudentName: "毒亮"
+StudentCode: "1703299"
+GradePoint: 4.038298142429115
+Interest: "骨熬恩" "法畸才" "掀漂" "绕善养" "芽塘拌"
+DepartmentWishes: "秦愚" "132019/官摄" "肖谈" "132054/塘罐淌"
+FreeTime: "Week/Thursday/17:1-20:39"
+/
+StudentName: "晌骚"
+StudentCode: "1703305"
+GradePoint: 4.970762426527776
+Interest: "顽彝欠"
+DepartmentWishes: "132072/绩巡"
+FreeTime: "Week/Saturday/21:0-22:13"
+/
+StudentName: "鲍阮"
+StudentCode: "1703310"
+GradePoint: 9.496860835217408
+Interest: "韧爹" "法畸才" "矫南彻"
+DepartmentWishes: "132068/胰铭" "132019/官摄" "灸王" "132061/厘挽辖"
+FreeTime: "Week/Wednesday/19:12-21:28" "Week/Wednesday/14:41-16:27" "Week/Thursday/18:37-19:28"
+/
+StudentName: "升腊碟"
+StudentCode: "1703316"
+GradePoint: 5.932211230916483
+Interest: "元砂" "芽塘拌" "涝饥并"
+DepartmentWishes: "132005/佛蛋夏" "132046/誊慈" "132036/付技辕" "132054/塘罐淌"
+FreeTime: "Day/13:16-16:8"
+/
+StudentName: "挛家峨"
+StudentCode: "1703321"
+GradePoint: 4.500896745822214
+Interest: "腥靠" "芽塘拌" "舶侗委"
+DepartmentWishes: "132042/灸王"
+FreeTime: "Day/17:56-19:31"
+/
+StudentName: "联友仇"
+StudentCode: "1703325"
+GradePoint: 4.423894404301092
+Interest: "芽塘拌" "腥靠" "韧爹" "颁淀赠" "绕善养" "芽塘拌"
+DepartmentWishes: "132064/盼仇敲" "业娃诊" "132032/秦愚"
+FreeTime: "Week/Tuesday/12:29-14:18" "Week/Thursday/16:47-18:54" "Week/Monday/12:32-14:21" "Week/Tuesday/9:12-11:26"
+/
+StudentName: "厂涎茅"
+StudentCode: "1703332"
+GradePoint: 6.418723724331209
+Interest: "纸昏处" "颁淀赠" "涝饥并"
+DepartmentWishes: "132015/卸戚" "业娃诊" "132072/绩巡"
+FreeTime: "Day/21:9-24:17" "Day/19:50-20:36" "Day/13:12-15:27" "Day/12:24-14:13"
+/
+StudentName: "姆具苑"
+StudentCode: "1703336"
+GradePoint: 6.9661767405186374
+Interest: "绕善养" "涝饥并" "元砂" "纸昏处"
+DepartmentWishes: "恍驶蜂" "锨将特"
+FreeTime: "Day/24:52-25:8" "Day/18:18-21:27" "Day/20:34-22:14" "Day/14:5-16:44"
+/
+StudentName: "荷韵"
+StudentCode: "1703339"
+GradePoint: 6.833784574963021
+Interest: "顽彝欠" "墨傈" "胞蛤嫌" "颁淀赠"
+DepartmentWishes: "132046/誊慈"
+FreeTime: "Day/18:4-19:6"
+/
+StudentName: "闷贷何"
+StudentCode: "1703342"
+GradePoint: 8.49352622863869
+Interest: "法畸才" "芽塘拌" "脾绊"
+DepartmentWishes: "锨将特" "132072/绩巡" "132030/恍驶蜂" "132064/盼仇敲"
+FreeTime: "Week/Wednesday/24:39-25:10" "Week/Thursday/14:23-16:17" "Week/Friday/22:20-23:15" "Week/Wednesday/22:15-25:17"
+/
+StudentName: "弓滴吉"
+StudentCode: "1703349"
+GradePoint: 9.233292121122572
+Interest: "涝饥并" "韧爹"
+DepartmentWishes: "132061/厘挽辖" "132005/佛蛋夏"
+FreeTime: "Week/Monday/12:36-15:42" "Week/Tuesday/10:23-13:47" "Week/Saturday/10:57-12:39"
+/
+StudentName: "炯洗萝"
+StudentCode: "1703352"
+GradePoint: 4.615781984293047
+Interest: "墨傈" "顽彝欠" "胞蛤嫌" "掀漂" "顽彝欠" "矫南彻"
+DepartmentWishes: "132061/厘挽辖" "杰射" "132009/洽咆辗"
+FreeTime: "Day/16:41-17:0" "Day/15:35-16:1" "Day/14:18-17:21" "Day/18:14-20:41"
+/
+StudentName: "龟炕"
+StudentCode: "1703357"
+GradePoint: 6.988714577259245
+Interest: "矫南彻"
+DepartmentWishes: "132054/塘罐淌" "132074/肖谈" "132050/业娃诊" "132036/付技辕"
+FreeTime: "Week/Friday/21:50-22:46" "Week/Friday/15:21-17:52" "Week/Monday/19:30-22:49" "Week/Friday/22:58-25:18"
+/
+StudentName: "三稗鸭"
+StudentCode: "1703364"
+GradePoint: 5.705014003166874
+Interest: "胞蛤嫌" "腥靠" "韧爹"
+DepartmentWishes: "秦愚"
+FreeTime: "Week/Wednesday/15:58-16:54" "Week/Monday/11:59-12:22" "Week/Tuesday/9:52-12:28" "Week/Sunday/10:46-12:52"
+/
+StudentName: "吗悼"
+StudentCode: "1703368"
+GradePoint: 6.2811710804338015
+Interest: "矫南彻"
+DepartmentWishes: "132068/胰铭" "洽咆辗" "132005/佛蛋夏"
+FreeTime: "Day/20:1-21:18" "Day/9:32-10:54"
+/

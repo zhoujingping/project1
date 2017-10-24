@@ -1,0 +1,144 @@
+﻿# 说明：
+# DepartmentName: "部门名称"
+# DepartmentCode: "部门编号"
+# StudentLimit: 学生上限
+# Characteristics: "特点标签-1" "特点标签-2" "特点标签-3" "特点标签-4" ...
+# RoutineActivityTime: "常规活动时间段-1" "常规活动时间段-3" ...
+# StudentName: "学生姓名"
+# StudentCode: "学生学号"
+# GradePoint: 学生绩点
+# Interest: "兴趣标签-1" "兴趣标签-2" "兴趣标签-3" ...
+# DepartmentWishes: "意愿部门-1" "意愿部门-2" "意愿部门-3" "意愿部门-4" "意愿部门-5" ...
+# FreeTime: "空闲时间段-1" "空闲时间段-2" "空闲时间段-3" ...
+
+# 意愿部门表示为:
+#     "(部门编号/)[部门名称]"
+
+# 时间段表示为:
+#     "Day [时间段]":每天[时间段]
+#     "Week/[星期] [时间段]":每周[星期][时间段]
+#     [时间段]表示为: hh:mm-hh:mm ,例如10:30-13:50表示10点30分到13点50分这段时间
+#     [星期]表示为: Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+
+
+
+Department
+	DepartmentName: "文艺部"
+	DepartmentCode: "1001"
+	StudentLimit: 12
+	Characteristics: "跳舞" "相声" "唱歌" "娱乐活动" "文艺比赛" "艺术"
+	RoutineActivityTime: "Week/Monday/10:30-13:30" "Week/Friday/15:30-16:30"
+	/
+
+	DepartmentName: "体育部"
+	DepartmentCode: "1002"
+	StudentLimit: 10
+	Characteristics: "篮球" "足球" "乒乓球" "羽毛球" "跑步" "跳远" "跳高"
+	RoutineActivityTime: "Week/Wednesday/15:30-16:30" "Week/Friday/13:00-14:30"
+	/
+
+	DepartmentName: "宣传部"
+	DepartmentCode: "1003"
+	StudentLimit: 15
+	Characteristics: "绘画" "书法" "艺术"
+	RoutineActivityTime: "Week/Wednesday/14:30-15:30" "Week/Sunday/15:30-17:30"
+	/
+	DepartmentName: "学习部"
+	DepartmentCode: "1004"
+	StudentLimit: 15
+	Characteristics: "知识竞赛" "学习" 
+	RoutineActivityTime: "Week/Wednesday/15:30-16:30" "Week/Saturday/17:30-19:30"
+	/
+Student
+	StudentName: "张三"
+	StudentCode: "17001"
+	GradePoint: 10.6
+	Interest: "篮球" "书法" "唱歌"
+	DepartmentWishes: "1001/文艺部" "1002/体育部" "1003/宣传部"
+	FreeTime: "Week/Monday/10:30-12:30" "Week/Tuesday/14:30-19:30"
+	/
+
+	StudentName: "李四"
+	StudentCode: "17002"
+	GradePoint: 15.1
+	Interest: "乒乓球" "跑步" "唱歌"
+	DepartmentWishes: "1001/文艺部" "1002/体育部"
+	FreeTime: "Week/Monday/10:30-12:30" "Week/Wednesday/10:30-19:30"
+	/
+	StudentName: "小红"
+	StudentCode: "17003"
+	GradePoint: 16.0
+	Interest: "知识竞赛"
+	DepartmentWishes: "1004/学习部"
+	FreeTime: "Week/Monday/10:30-12:30"
+	/
+	StudentName: "小明"
+	StudentCode: "17004"
+	GradePoint: 14.4
+	Interest: "乒乓球" "跑步" "唱歌"
+	DepartmentWishes: "1001/文艺部" "1002/体育部"
+	FreeTime: "Week/Monday/10:30-12:30" "Week/Friday/10:30-19:30" 
+	/
+	StudentName: "小晓"
+	StudentCode: "17005"
+	GradePoint: 13.1
+	Interest: "文艺比赛" "艺术" "跳远" "跳高"
+	DepartmentWishes: "1001/艺术部" "1002/体育部"
+	FreeTime:"Week/Monday/10:30-13:30" "Week/Saturday/17:30-19:30"
+	/
+	StudentName: "小夏"
+	StudentCode: "17006"
+	GradePoint: 13.1
+	Interest: "绘画" "跳舞" "唱歌"
+	DepartmentWishes: "1001/文艺部" "1003/宣传部"
+	FreeTime: "Week/Monday/10:30-12:30" "Week/Wednesday/14:30-19:30"
+	/
+	StudentName: "小好"
+	StudentCode: "17007"
+	GradePoint: 15.1
+	Interest: "知识竞赛" "学习" "跳舞"
+	DepartmentWishes: "1001/文艺部" "1004/学习部"
+	FreeTime: "Week/Friday/10:30-19:30" "Week/Wednesday/10:30-15:30"
+	/
+	StudentName: "小素"
+	StudentCode: "17008"
+	GradePoint: 17.1
+	Interest: "乒乓球" "跑步" "唱歌"
+	DepartmentWishes: "1001/文艺部" "1002/体育部"
+	FreeTime: "Week/Monday/10:30-12:30" "Week/Friday/10:30-19:30"
+	/
+	StudentName: "小绘"
+	StudentCode: "17009"
+	GradePoint: 12.1
+	Interest: "书法" "艺术" "学习"
+	DepartmentWishes: "1004/学习部" "1003/宣传部"
+	FreeTime: "Week/Saturday/17:30-12:30" "Week/Sunday/10:30-19:30" "Week/Wednesday/10:30-12:30"
+	/
+	StudentName: "小辉"
+	StudentCode: "17010"
+	GradePoint: 14.8
+	Interest: "书法" "绘画" "唱歌"
+	DepartmentWishes: "1001/文艺部" "1003/宣传部"
+	FreeTime: "Week/Monday/10:30-12:30" "Week/Friday/12:30-19:30"
+	/
+	StudentName: "小花"
+	StudentCode: "17011"
+	GradePoint: 13.1
+	Interest: "知识竞赛" "绘画" "篮球"
+	DepartmentWishes: "1002/体育部" "1003/宣传部" "1004/学习部"
+	FreeTime: "Week/Monday/10:30-12:30" "Week/Friday/13:30-19:30" "Week/Wednesday/10:30-12:30"
+	/
+	StudentName: "小其"
+	StudentCode: "17012"
+	GradePoint: 16.2
+	Interest: "乒乓球" "跑步" "唱歌"
+	DepartmentWishes: "1001/文艺部" "1002/体育部"
+	FreeTime: "Week/Monday/10:30-12:30" "Week/Friday/10:30-19:30"
+	/
+	StudentName: "小都"
+	StudentCode: "17013"
+	GradePoint: 13.9
+	Interest: "知识竞赛" "相声" "娱乐活动"
+	DepartmentWishes: "1001/文艺部" "1004/学习部"
+	FreeTime: "Week/Monday/10:30-12:30" "Week/Friday/13:30-19:30"
+	/

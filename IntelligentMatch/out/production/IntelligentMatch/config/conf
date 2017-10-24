@@ -1,0 +1,3 @@
+importfile G:\webapp\第二次结队作业\IntelligentMatch\src\config\import.txt
+outputfile G:\webapp\第二次结队作业\IntelligentMatch\src\config\output.txt
+priority gradePoint interest freeTime
