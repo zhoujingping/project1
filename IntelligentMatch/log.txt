@@ -1,0 +1,32 @@
+-------------------------------------------
+2017-10-25 11:26:53
+
+
+已设置输入文件:C:\Users\mengy\Desktop\123\config\import.txt
+已设置输出文件:C:\Users\mengy\Desktop\123\config\output(5).txt
+已设置优先级:gradePoint
+已设置优先级:interest
+已生成文件:C:\Users\mengy\Desktop\123\config\import.txt
+生成输入文件时间为: 33 毫秒
+已成功录入文件:C:\Users\mengy\Desktop\123\config\import.txt
+匹配执行时间为: 23 毫秒
+已成功输出文件:C:\Users\mengy\Desktop\123\config\output(5).txt
+生成输出文件时间为: 9 毫秒
+
+
+-------------------------------------------
+2017-10-25 11:26:58
+
+
+已设置输入文件:C:\Users\mengy\Desktop\123\config\import.txt
+已设置输出文件:C:\Users\mengy\Desktop\123\config\output(5).txt
+已设置优先级:gradePoint
+已设置优先级:interest
+已生成文件:C:\Users\mengy\Desktop\123\config\import.txt
+生成输入文件时间为: 34 毫秒
+已成功录入文件:C:\Users\mengy\Desktop\123\config\import.txt
+匹配执行时间为: 23 毫秒
+已成功输出文件:C:\Users\mengy\Desktop\123\config\output(5).txt
+生成输出文件时间为: 11 毫秒
+
+

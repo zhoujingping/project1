@@ -1,0 +1,16 @@
+-------------------------------------------
+2017-10-26 12:34:41
+
+
+已设置输入文件:C:\Users\acer\Desktop\123\bin\config\import.txt
+已设置输出文件:C:\Users\acer\Desktop\123\bin\config\output(7).txt
+已设置优先级:gradePoint
+已设置优先级:interest
+已生成文件:C:\Users\acer\Desktop\123\bin\config\import.txt
+生成输入文件时间为: 154 毫秒
+已成功录入文件:C:\Users\acer\Desktop\123\bin\config\import.txt
+匹配执行时间为: 38 毫秒
+已成功输出文件:C:\Users\acer\Desktop\123\bin\config\output(7).txt
+生成输出文件时间为: 47 毫秒
+
+
